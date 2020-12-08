@@ -29,7 +29,7 @@ def SubmitPMIDList(Inputfile,Format,Outfile,Bioconcept):
 # 		print(r.text.encode("utf-8"))
 		response = r.text
 		outputfile = open(Outfile, 'w')
-		outputfile.write(response+"\n")
+		outputfile.write(response)
 		outputfile.close()
 
 if __name__ == "__main__":
