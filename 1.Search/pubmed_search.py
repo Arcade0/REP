@@ -2,6 +2,7 @@ import numpy as np
 from Bio import Medline, Entrez  # 一般是通过BioPython的Bio.Entrez模块访问Entrez
 from collections import Counter
 import os
+import json
 
 Entrez.email = "（xinzhuo12345678@163.com）"  # 应用自己的账号访问NCBI数据库
 
@@ -17,7 +18,10 @@ def mk_dir(file_path):
     if not folder:
         os. makedirs(file_path)
 
-def query(spec_l, keyword, date, ret_max=100, step=100, fur_query=False):
+def query(spec_l, keyword, 
+          date="(1900/01/01[Date - Publication] : 2021/12/31[Date - Publication])", 
+          ret_max=100, step=100, 
+          fur_query=False):
 
     """
     Entrez 是一个检索系统，可以用其访问NCBI数据库，比如说PubMed，GenBank，GEO等。
@@ -26,10 +30,9 @@ def query(spec_l, keyword, date, ret_max=100, step=100, fur_query=False):
 
     for spec in spec_l:
         
-        mk_dir(spec)
-        term_l = [spec]
-        for ele in keyword:
-            term_l.append(spec + " AND " + ele)
+        mk_dir("output/%s/%s" % (spec.split(" ")[0], spec.replace(" ", "_"))) # 保存格式 类/种名
+        term_l = [spec + " AND " + ele for ele in keyword]
+        term_l.append(spec)
         
         for term in term_l:
         
@@ -47,16 +50,25 @@ def query(spec_l, keyword, date, ret_max=100, step=100, fur_query=False):
             No_Papers = len(idlist)
 
             total = No_Papers
-            spec = spec.replace(" ", "_")
-            term = term.replace(" ", "_")
             print (term + " Total: ", record["Count"])
-            with open("output/%s/%s_pmid.txt" % (spec, term), "w") as f: # save pmid
+            
+            with open("output/%s/%s/%s.txt" % (
+                spec.split(" ")[0], 
+                spec.replace(" ", "_"), 
+                term.replace(" ", "_")), "w") as f: # save pmid
+                
                 for ele in idlist:
+                    
                     f.write(ele + "\n")
+                
+                f.close()
 
             if fur_query==True:
+                
                 dic = {}
+                
                 for start in range(0, total, step):
+                    
                     print("Download record %i to %i" % (start + 1, int(start + step)))
                     handle_1 = Entrez.efetch(
                         db="pubmed", retstart=start, 
@@ -66,24 +78,23 @@ def query(spec_l, keyword, date, ret_max=100, step=100, fur_query=False):
                     records = Medline.parse(handle_1)
                     records = list(records)
                     dic.update({ele["PMID"]:ele for ele in records})
-#                     for index in records:
-#                         id = records[index].get("PMID", "?")
-#                         title = records[index].get("TI", "?")
-#                         title = title.replace('[', '').replace('].', '')  # 若提取的标题出现[].符号，则去除
-#                         abstract = records[index].get("AB", "?")
-#                         f.write(id + "\n" + title + "\n" + abstract + "\n"}
 
-                with open("%s/%s_detail.json" % (spec, term), 'w') as f: # save json file
+                with open("output/%s/%s/%s.json" % (
+                    spec.split(" ")[0], 
+                    spec.replace(" ", "_"), 
+                    term.replace(" ", "_")), 'w') as f: # save json file
+        
                         js = json.dumps(dic)
                         f.write(js)
-                        f.close
+                        f.close()
+                    
 if __name__ == "__main__":
+    spec_l = ["Corynebacterium accolens"]
     keyword = ["pneumonia", "bronchitis", "lung", 
            "pulmonary", "respiratory", "infection", 
            "empyema", "abscess"]
-    spec_l = ["Corynebacterium accolens"]
-    date = "(1900/01/01[Date - Publication] : \
-    2021/12/31[Date - Publication])"
-    query(spec_l, keyword, date, 
+    date = "(1900/01/01[Date - Publication] : 2021/12/31[Date - Publication])"
+    query(spec_l, keyword,
+          date, 
           ret_max=100, step=100, 
           fur_query=False)
