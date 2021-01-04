@@ -43,7 +43,7 @@ def pubtator(input_path, output_path):
                     print(file)
                     
                     SubmitPMIDList.SubmitPMIDList(input_name, "biocjson", output_name, "")   
-                    time.sleep(randint(5, 15))
+                    time.sleep(randint(5, 10))
 
                     # convert pubtator result to json file 
                     with open('%s' % output_name, 'r') as f:

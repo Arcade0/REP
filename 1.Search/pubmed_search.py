@@ -22,7 +22,7 @@ def mk_dir(file_path):
     if not folder:
         os. makedirs(file_path)
 
-def query(input_path, output_path, keyword, keyp="Mesh",
+def query(input_path, output_path, keyword,
           date="(1900/01/01[Date - Publication] : 2021/12/31[Date - Publication])", 
           ret_max=100, step=100, 
           fur_query=False):
@@ -38,18 +38,21 @@ def query(input_path, output_path, keyword, keyp="Mesh",
     for sp in sp_l:
         
         print(sp)
-         # print(sp)
 
-        with open("%s/%s" % (input_path, sp.replace(".txt", "_done.txt")), "a") as df:
+        # 创建记录已完成搜索的物种的文件
+        with open("%s/%s" % (input_path, sp.replace(".txt", "_done.txt")), "a") as df: 
+           
             df.close()
         
-        with open("%s/%s" % (input_path, sp.replace(".txt", "_done.txt")), "r") as df:
+        # 读取已经完成了搜索的物种
+        with open("%s/%s" % (input_path, sp.replace(".txt", "_done.txt")), "r") as df: 
 
             done_l = df.readlines()
             done_l = [ele.replace("\n", "") for ele in done_l]
             df.close()
 
-        with open("%s/%s" % (input_path, sp), "r") as f:
+        # 对比完整目录与已完成的，筛选出未完成的，方便断点搜索
+        with open("%s/%s" % (input_path, sp), "r") as f: 
 
             spec_l = f.readlines()
             spec_l = [ele.replace("\n", "") for ele in spec_l if ele.replace("\n", "") not in done_l]
@@ -59,23 +62,14 @@ def query(input_path, output_path, keyword, keyp="Mesh",
 
             mk_dir("%s/%s/%s" % (output_path, sp.replace(".txt", ""), spec.replace(" ", "_"))) # 保存格式 类/种名
             
-            if keyp == "Mesh":
-
-                term_l = [spec + " AND " + ele for ele in keyword] + \
-                    [spec + "[Mesh]" + " AND " + ele for ele in keyword]
-                term_l.append(spec + "[Mesh]")
+            term_l = [spec + " AND " + ele for ele in keyword] # 构建搜索关键词
+            term_l.append(spec)    
             
-            else:
-                term_l = [spec + " AND " + ele for ele in keyword]
-                term_l.append(spec + "[Mesh]")
-            
-        
             for term in term_l:
 
                 output_name = "%s/%s/%s/%s.txt" % (
                         output_path, sp.replace(".txt", ""), 
                         spec.replace(" ", "_"), term.replace(" ", "_"))
-
 
                 handle_0 = Entrez.esearch(
                     db = "pubmed", 
@@ -89,21 +83,23 @@ def query(input_path, output_path, keyword, keyp="Mesh",
                 query_key = record['QueryKey']
                 No_Papers = len(idlist)
                 total = No_Papers
-
-                print (term + " Total: ", record["Count"])
                 handle_0.close()
-                time.sleep(randint(5, 20))
 
-                if len(idlist) > 0:
+                print (term + " Total: ", record["Count"]) # 打印统计结果
+                time.sleep(randint(5, 10)) #防止被踢下去
+                
+                # 保存 pmid
+                if len(idlist) > 0: 
 
-                    with open(output_name, "w") as f: # save pmid
+                    with open(output_name, "w") as f: 
                         
                         for ele in idlist:
                             
                             f.write(ele + "\n")
                         f.close()   
-               
-                    if fur_query==True:
+
+                    # 是否索取文献更详细的信息
+                    if fur_query==True: 
                         
                         dic = {}
                         
@@ -114,12 +110,12 @@ def query(input_path, output_path, keyword, keyp="Mesh",
                                 db="pubmed", retstart=start, 
                                 rettype="medline", retmode="text",
                                 retmax=step, webenv=webenv, 
-                                query_key=query_key)  # 获取上述所有文献的PubMed IDs
+                                query_key=query_key)
                             records = Medline.parse(handle_1)
                             records = list(records)
                             dic.update({ele["PMID"]:ele for ele in records})
 
-                        with open(output_name.replace("txt", "json"), 'w') as f: # save json file
+                        with open(output_name.replace("txt", "json"), 'w') as f:
                 
                                 js = json.dumps(dic)
                                 f.write(js)
@@ -128,7 +124,8 @@ def query(input_path, output_path, keyword, keyp="Mesh",
                         pass
                 else:
                     pass
-
+            
+            # 更新完成搜索的物种的文件
             with open("%s/%s" % (input_path, sp.replace(".txt", "_done.txt")), "a") as df:
 
                 df.write(spec + "\n")

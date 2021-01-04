@@ -1,5 +1,5 @@
 {
-    "Mesh":["pneumonia[Mesh]"], 
+    "Mesh":["pneumonia[Mesh]", "pneumonia"], 
     "Normal":[
         "pneumonia",
         "bronchitis",
