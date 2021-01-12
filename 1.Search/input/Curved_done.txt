@@ -1,0 +1,187 @@
+Arcobacter anaerophilus
+Arcobacter bivalviorum
+Arcobacter butzleri
+Arcobacter cibarius
+Arcobacter cloacae
+Arcobacter cryaerophilus
+Arcobacter defluvii
+Arcobacter ellisii
+Arcobacter halophilus
+Arcobacter marinus
+Arcobacter molluscorum
+Arcobacter mytili
+Arcobacter nitrofigilis
+Arcobacter skirrowii
+Arcobacter suis
+Arcobacter thereius
+Arcobacter trophiarum
+Arcobacter venerupis
+Arcobacter trophiarum
+Arcobacter ebronensis
+Borrelia recurrentis
+Borrelia duttonii
+Borrelia hispanica
+Borrelia crocidurae
+Borrelia merionesi
+Borrelia microti
+Borrelia dipodilli
+Borrelia persica
+Borrelia caucasica
+Borrelia hermsii
+Borrelia turicatae
+Borrelia parkeri
+Borrelia mazzottii
+Borrelia venezuelensis
+Borrelia burgdorferi
+Borrelia garinii
+Borrelia afzelii
+Borrelia bavariensis
+Borrelia spielmanii
+Borrelia japonica
+Borrelia andersonii
+Borrelia bissettii
+Borrelia tanukii
+Borrelia turdi
+Borrelia sinica
+Borrelia valaisiana
+Borrelia lusitaniae
+Borrelia californiensis
+Borrelia carolinensis
+Borrelia lonestari
+Borrelia miyamotoi
+Borrelia theileri
+Borrelia coriaceae
+Borrelia anserina
+Campylobacter hyointestinalis
+Campylobacter sputorum
+Campylobacter jejuni
+Campylobacter fetus
+Campylobacter lari
+Campylobacter avium
+Campylobacter canadensis
+Campylobacter coli
+Campylobacter concisus
+Campylobacter cuniculorum
+Campylobacter curvus
+Campylobacter fetus subsp. fetus
+Campylobacter fetus subsp. venerealis
+Campylobacter gracilis
+Campylobacter helveticus
+Campylobacter hominis
+Campylobacter hyointestinalis subsp. hyointestinalis
+Campylobacter hyointestinalis subsp. lawsonii
+Campylobacter insulaenigrae
+Campylobacter jejuni subsp. jejuni
+Campylobacter jejuni subsp. doylei
+Campylobacter lanienae
+Campylobacter lari subsp. concheus
+Campylobacter lari subsp. lari
+Campylobacter mucosalis
+Campylobacter peloridis
+Campylobacter rectus
+Campylobacter showae
+Campylobacter sputorum
+Campylobacter sputorum bv. paraureolyticus
+Campylobacter sputorum bv. sputorum
+Campylobacter sputorum bv. faecalis
+Campylobacter subantarcticus
+Campylobacter upsaliensis
+Campylobacter ureolyticus
+Campylobacter volucris
+Campylobacter corcagiensis
+Sulfurospirillum
+Helicobacter acinonychis
+Helicobacter baculiformis
+Helicobacter bizzozeronii
+Helicobacter cetorum
+Helicobacter cynogastricus
+Helicobacter felis
+Helicobacter heilmannii
+Helicobacter pylori
+Helicobacter salomoni
+Helicobacter suis
+Helicobacter anseris
+Helicobacter aurati
+Helicobacter bilis
+Helicobacter brantae
+Helicobacter canis
+Helicobacter cholecystus
+Helicobacter cinaedi
+Helicobacter equorum
+Helicobacter fennelliae
+Helicobacter hepaticus
+Helicobacter macacae
+Helicobacter marmotae
+Helicobacter mastomyrinus
+Helicobacter muridarum
+Helicobacter mustelae
+Helicobacter pametensis
+Helicobacter trogontum
+Helicobacter typhlonius
+Helicobacter canadensis
+Helicobacter ganmani
+Helicobacter mesocricetorum
+Helicobacter pullorum
+Helicobacter rodentium
+Helicobacter winghamensis
+Herbaspirillum
+Leptospira alexanderi
+Leptospira alstonii
+Leptospira borgpetersenii
+Leptospira interrogans
+Leptospira kirschneri
+Leptospira kmetyi
+Leptospira noguchii
+Leptospira santarosai
+Leptospira weilii
+Leptospira broomii
+Leptospira fainei
+Leptospira inadai
+Leptospira licerasiae
+Leptospira wolffi
+Leptospira biflexa
+Leptospira idonii
+Leptospira meyeri
+Leptospira terpstrae
+Leptospira vanthielii
+Leptospira wolbachii
+Leptospira yanagawae
+Vibrio cholerae
+Vibrio parahaemolyticus
+Vibrio fluvialis
+Vibrio alginolyticus
+Vibrio cincinnatiensis
+Vibrio furnissii
+Vibrio metschnikovii
+Vibrio mimicus
+Vibrio hollisae
+Vibrio damselae
+Vibrio vulnificus
+Vibrio harveyi
+Grimontia hollisae
+Photobacterium damselae
+Treponema carateum
+Treponema denticola
+Treponema pertenue
+Treponema pallidum
+Treponema pallidum subsp. pertenu
+Treponema pallidum subsp. endemicum
+Treponema pectinovorum
+Treponema socranskii
+Treponema vincentii
+Treponema lecithinolyticum
+Treponema maltophilum
+Treponema medium
+Treponema parvum
+Treponema putidum
+Treponema amylovorum
+Brachyspira aalborgi
+Brachyspira pilosicoli
+Brachyspira hominis
+Brachyspira pilosicoli
+Bacteroides ureolyticus
+Anaerobes
+Desulfovibrio
+Sutterella wadsworthensis
+Wolinella succinogenes
+Anaerobiospirillum succiniciproducens

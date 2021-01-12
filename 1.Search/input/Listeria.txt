@@ -1,0 +1,13 @@
+Listeria fleischmannii
+Listeria grayi
+Listeria innocua
+Listeria ivanovii
+Listeria marthii
+Listeria monocytogenes
+Listeria rocourtiae
+Listeria seeligeri
+Listeria weihenstephanensis
+Listeria welshimeri
+Erysipelothrix inopinata
+Erysipelothrix rhusiopathiae
+Erysipelothrix tonsillarum 

@@ -86,6 +86,7 @@ def query(input_path, output_path, keyword,
                 handle_0.close()
 
                 print (term + " Total: ", record["Count"]) # 打印统计结果
+                print(No_Papers)
                 time.sleep(randint(5, 10)) #防止被踢下去
                 
                 # 保存 pmid
