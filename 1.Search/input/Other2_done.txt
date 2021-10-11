@@ -1,0 +1,67 @@
+Rhodococcus aurantiacus  see Tsukamurella paurometabola
+Rhodococcus corynebacterioides
+Rhodococcus equi
+Rhodococcus erythropolis
+Rhodococcus fascians
+Rhodococcus globerulus globerulus
+Rhodococcus gordoniae
+Rhodococcus rhodochrous
+Gordonia araii
+Gordonia bronchialis
+Gordonia effusa
+Gordonia otitidis
+Gordonia polyisoprenivorans
+Gordonia rubripertincta
+Gordonia sputi
+Gordonia terrae
+Actinomadura chibensis
+Actinomadura cremea
+Actinomadura dassonvillei
+Actinomadura latina
+Actinomadura madurae
+Actinomadura nitritigenes
+Actinomadura pelletieri
+Actinomadura sputi
+Actinomadura vinacea
+Streptomyces albus
+Streptomyces avermitilis
+Streptomyces bikiniensis
+Streptomyces cinereoruber
+Streptomyces erythreus
+Streptomyces griseus
+Streptomyces lincolnensis
+Streptomyces mediterranei
+Streptomyces mutabilis
+Streptomyces mutabilis subsp.capreolus
+Streptomyces nodosus
+Streptomyces orientalis
+Streptomyces roseosporus
+Streptomyces somaliensis
+Streptomyces sudanensis
+Streptomyces thermovulgaris
+Streptomyces venezuelae
+Dietzia maris
+Dietzia schimae
+Segniliparus rotundus
+Segniliparus rugosus
+Tsukamurella inchonensis
+Tsukamurella paurometabola
+Tsukamurella paurometabola
+Tsukamurella paurometabola,
+Tsukamurella pulmonis
+Tsukamurella spumae
+Tsukamurella strandjordi
+Tsukamurella tyrosinosolvens
+Williamsia deligens
+Williamsia muralis
+Amycolata autotrophica
+Amycolatopsis benzoatilytica
+Amycolatopsis orientalis
+Amycolatopsis palatopharyngis
+Dermatophilus congolensis
+Desmospora activa
+Kroppenstedtia eburnea
+Pseudonocardia
+Saccharomonospora
+Saccharopolyspora
+Thermoactinomyces

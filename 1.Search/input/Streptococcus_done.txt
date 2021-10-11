@@ -1,0 +1,66 @@
+Streptococcus adjacens
+Streptococcus agalactiae
+Streptococcus alactolyticus
+Streptococcus anginosus subsp.whileyi
+Streptococcus australis
+Streptococcus bovis
+Streptococcus canis
+Streptococcus constellatus
+Streptococcus constellatus subsp.constellatus
+Streptococcus constellatus subsp.pharyngis
+Streptococcus constellatus subsp.viborgensis
+Streptococcus criceti
+Streptococcus cristatus
+Streptococcus defectivus
+Streptococcus devriesei
+Streptococcus didelphis
+Streptococcus downei
+Streptococcus dysgalactiae subsp.dysgalactiae
+Streptococcus dysgalactiae subsp.equisimilis
+Streptococcus equi subsp. Equi
+Streptococcus equi subsp.zooepidemicus
+Streptococcus equinus
+Streptococcus ferus
+Streptococcus gallolyticus
+Streptococcus gallolyticus subsp.gallolyticus
+Streptococcus gallolyticus subsp.pasteurianus
+Streptococcus gallolyticus subsp.Pasteurianus
+Streptococcus gordonii
+Streptococcus hongkongensis
+Streptococcus hyovaginalis
+Streptococcus infantarius
+Streptococcus infantarius subsp. coli
+Streptococcus infantis
+Streptococcus iniae
+Streptococcus intermedius
+Streptococcus lactarius
+Streptococcus macacae
+Streptococcus massiliensis
+Streptococcus milleri
+Streptococcus mitis
+Streptococcus morbillorum
+Streptococcus mutans
+Streptococcus oligofermentans
+Streptococcus oralis
+Streptococcus orisratti
+Streptococcus parasanguinis
+Streptococcus parvulus
+Streptococcus peroris
+Streptococcus pneumoniae
+Streptococcus porcinus
+Streptococcus pseudopneumoniae
+Streptococcus pseudoporcinus
+Streptococcus pyogenes
+Streptococcus ratti
+Streptococcus salivarius
+Streptococcus sanguinis
+Streptococcus sinensis
+Streptococcus sobrinus
+Streptococcus suis
+Streptococcus thermophilus
+Streptococcus tigurinus
+Streptococcus uberis
+Streptococcus vestibularisStreptococcus anginosus
+Streptococcus dysgalactiae
+Streptococcus anginosus
+Streptococcus vestibularis

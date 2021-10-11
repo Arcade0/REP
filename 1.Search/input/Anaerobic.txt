@@ -1,0 +1,338 @@
+Anaerococcus hydrogenalis
+Anaerococcus lactolyticus
+Anaerococcus murdochii
+Anaerococcus octavius
+Anaerococcus prevotii
+Anaerococcus tetradius
+Anaerococcus vaginalis
+Anaerococcus senegalensis
+Peptoniphilus asaccharolyticus
+Peptoniphilus koenoeneniae
+Peptoniphilus gorbachii
+Peptoniphilus harei
+Peptoniphilus indolicus
+Peptoniphilus ivorii
+Peptoniphilus lacrimalis
+Peptoniphilus olsenii
+Peptoniphilus methioninivorax
+Peptoniphilus tyrrelliae
+Peptoniphilus coxii
+Peptoniphilus duerdenii
+Peptoniphilus grossensis
+Peptoniphilus timonensis
+Gallicola barnesae
+Veillonella alcalescens
+Veillonella atypica
+Veillonella denticariosi
+Veillonella dispar
+Veillonella parvula
+Veillonella rogosae
+Veillonella tobetsuensis
+Acidaminococcus fermentans
+Acidaminococcus intestini
+Megasphaera elsdenii
+Megasphaera micronuciformis
+Anaeroglobus geminatus
+Peptococcus niger
+Parvimonas micra
+Micromonas micros
+Finegoldia magna
+Murdochiella asaccharolytica
+Anaerosphaera aminiphila
+Slackia heliotrinireducenscorrig
+Atopobium parvulum
+Streptococcus parvulus
+Blautia producta
+Ruminococcus productus
+Blautia coccoides
+Clostridium coccoides
+Blautia wexlerae
+Ruminococcus gauvreauii
+Staphylococcus saccharolyticu
+Peptostreptococcus
+Actinobaculum
+Actinomyces
+Adlercreutzia
+Alloscardovia
+Atopobium
+Bifidobacterium
+Collinsella
+Cryptobacterium
+Eggerthella
+Gordonibacter
+Mobiluncus
+Olsenella
+Paraeggerthella
+Parascardovia
+Propionibacterium
+Propioniferax
+Propionimicrobium
+Scardovia
+Slackia
+Varibaculum
+Anaerofustis
+Anaerostipes
+Anaerotruncus
+Bulleidia
+Catenibacterium
+Dorea
+Eubacterium
+Faecalibacterium
+Filifactor
+Flavonifractor
+Holdemania
+Lactobacillus
+Marvinbryantia
+Mogibacterium
+Oribacterium
+Pseudoramibacter
+Robinsoniella
+Roseburia
+Shuttleworthia
+Solobacterium
+Turicibacter
+Actinobaculum massiliense
+Actinobaculum schaalii
+Actinobaculum urinale
+Actinomyces cardiffensis
+Actinomyces dentalis
+Actinomyces europaeus
+Actinomyces funkei
+Actinomyces georgiae
+Actinomyces gerencseriae
+Actinomyces graevenitzii
+Actinomyces hominis
+Actinomyces hongkongensis
+Actinomyces israelii
+Actinomyces johnsonii
+Actinomyces massiliensis
+Actinomyces meyeri
+Actinomyces naeslundii
+Actinomyces nasicola
+Actinomyces neuii
+Actinomyces odontolyticus
+Actinomyces oricola
+Actinomyces oris
+Actinomyces radicidentis
+Actinomyces radingae
+Actinomyces timonensis
+Actinomyces turicensis
+Actinomyces urogenitalis
+Actinomyces viscosus
+Varibaculum cambriense
+Propionibacterium
+Propionibacterium acidifaciens
+Propionibacterium acnes
+Propionibacterium avidum
+Propionibacterium granulosum
+Propionibacterium propionicum
+Propioniferax
+Propioniferax innocua
+Propionimicrobium
+Propionimicrobium lymphophilum
+Olsenella profusa
+Olsenella uli
+Actinobacteria
+Collinsella aerofaciens
+Collinsella intestinalis
+Collinsella stercoris
+Cryptobacterium curtum
+Eggerthella lenta
+Eggerthella sinensis
+Paraeggerthella hongkongensis
+Slackia exigua
+Bulleidia extructa
+Catenibacterium mitsuokai
+Eubacterium brachy
+Eubacterium limosum
+Eubacterium minutum
+Eubacterium nodatum
+Eubacterium rectale
+Eubacterium saphenum
+Eubacterium sulci
+Eubacterium tenue
+Eubacterium yurii
+Filifactor alocis
+Flavonifractor plautii
+Holdemania filiformis
+Lachnoanaerobaculum saburreum
+Pseudoramibacter alactolyticus
+Robinsoniella peoriensis
+Shuttleworthia satelles
+Solobacterium moorei
+Clostridium bifermentans
+Clostridium botulinum
+Clostridium cadaveris
+Clostridium difficile
+Clostridium novyi
+Clostridium perfringens
+Clostridium putrificum
+Clostridium septicum
+Clostridium sordellii
+Clostridium sporogenes
+Clostridium baratii
+Clostridium bolteae
+Clostridium butyricum
+Clostridium carnis
+Clostridium clostridioforme
+Clostridium glycolicum
+Clostridium hathewayi
+Clostridium indolis
+Clostridium innocuum
+Clostridium paraputrificum
+Clostridium ramosum
+Clostridium sphenoides
+Clostridium symbiosum
+Clostridium tertium
+Clostridium argentinense
+Clostridium hastiforme
+Clostridium histolyticum
+Clostridium limosum
+Clostridium subterminale
+Clostridium tetani
+Bacteroides
+Alistipes
+Odoribacter
+Porphyromonas
+Parabacteroides
+Tannerella
+Prevotella
+Fusobacterium
+Leptotrichia
+Sneathia
+Dialister
+Selenomonas
+Sutterella
+Bilophila
+Desulfovibrio
+Anaerobiospirillum
+Bacteroides capillosus
+Bacteroides caccae
+Bacteroides cellulosilyticus
+Bacteroides clarus
+Bacteroides coprocola
+Bacteroides coprophilus
+Bacteroides dorei
+Bacteroides eggerthii
+Bacteroides faecis
+Bacteroides finegoldii
+Bacteroides fluxus
+Bacteroides fragilis
+Bacteroides intestinalis
+Bacteroides massiliensis
+Bacteroides nordii
+Bacteroides oleiciplenus
+Bacteroides ovatus
+Bacteroides plebeius
+Bacteroides salyersiae
+Bacteroides stercoris
+Bacteroides thetaiotaomicron
+Bacteroides uniformis
+Bacteroides vulgatus
+Bacteroides xylanisolvens
+Odoribacter laneus
+Odoribacter splanchnicus
+Parasutterella distasonis
+Parasutterella goldsteinii
+Parasutterella gordonii
+Parasutterella johnsonii
+Parasutterella merdae
+Parasutterella secunda
+Porphyromonas asaccharolytica
+Porphyromonas bennonis
+Porphyromonas catoniae
+Porphyromonas endodontalis
+Porphyromonas gingivalis
+Porphyromonas somerae
+Porphyromonas uenonis
+Porphyromonas amnii
+Porphyromonas aurantiaca
+Porphyromonas baroniae
+Porphyromonas bergensis
+Porphyromonas bivia
+Porphyromonas buccae
+Porphyromonas buccalis
+Porphyromonas copri
+Porphyromonas corporis
+Porphyromonas dentalis
+Porphyromonas denticola
+Porphyromonas disiens
+Porphyromonas enoeca
+Porphyromonas fusca
+Porphyromonas heparinolytica
+Porphyromonas histicola
+Porphyromonas jejuni
+Porphyromonas intermedia
+Porphyromonas loescheii
+Porphyromonas maculosa
+Porphyromonas marshii
+Porphyromonas melaninogenica
+Porphyromonas micans
+Porphyromonas multiformis
+Porphyromonas multisaccharivorax
+Porphyromonas nanceiensis
+Porphyromonas nigrescens
+Porphyromonas oralis
+Porphyromonas oris
+Porphyromonas oulorum
+Porphyromonas pallens
+Porphyromonas pleuritidis
+Porphyromonas saccharolytica
+Porphyromonas salivae
+Porphyromonas scopos
+Porphyromonas shahii
+Porphyromonas stercorea
+Porphyromonas tannerae
+Porphyromonas timonensis
+Porphyromonas veroralis
+Porphyromonas zoogleoformans
+Fusobacterium gonidiaformans
+Fusobacterium mortiferum
+Fusobacterium naviforme
+Fusobacterium necrophorum
+Fusobacterium nucleatum
+Fusobacterium periodonticum
+Fusobacterium russii
+Fusobacterium varium
+Fusobacterium ulcerans
+Leptotrichia buccalis
+Leptotrichia goodfellowii
+Leptotrichia hofstadii
+Leptotrichia hongkongensis
+Leptotrichia shahii
+Leptotrichia trevisanii
+Leptotrichia wadei
+Leptotrichia amnionii
+Sneathia amnii
+Sneathia sanguinegens
+Anaerobiospirillum succiniproducens
+Anaerobiospirillum thomasii
+Selenomonas artemidis
+Selenomonas dianae
+Selenomonas flueggei
+Selenomonas infelix
+Selenomonas noxia
+Selenomonas sputigena
+Desulfovibrio desulfuricans
+Desulfovibrio fairfieldensis
+Desulfovibrio piger
+Desulfovibrio vulgaris
+Phocaeicola abscessus
+Alistipes indistinctus
+Alistipes obesi
+Alistipes senegalensis
+Alistipes timonensis
+Alloprevotella rava
+Alloprevotella tannerae
+Coprobacter fastidiosus
+Prevotella tannerae
+Prevotella aurantiaca
+Prevotella fusca
+Prevotella jejuni
+Prevotella saccharolytica
+Prevotella scopos
+Fretibacterium fastidiosum
+Christensenella minuta
+Phascolarctobacterium succinatutens
+Pseudoflavonifractor capillosus
+Succinatimonas hippei

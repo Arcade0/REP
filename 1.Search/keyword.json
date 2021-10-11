@@ -1,0 +1,13 @@
+{
+    "Mesh":["pneumonia[Mesh]", "pneumonia"], 
+    "Normal":[
+        "pneumonia",
+        "bronchitis",
+        "lung",
+        "pulmonary",
+        "respiratory",
+        "infection",
+        "empyema",
+        "abscess"
+    ]
+}
