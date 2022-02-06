@@ -1,0 +1,447 @@
+ID,物种名称,是否是致病菌,样本量,患者性别,年龄,免疫状态,肺部基础疾病,证据等级,预后,id,sup_evi,old_start,answer,full
+432603,Actinomyces viscosus,是,,,,,肺脓肿,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/432603/,,,,"SPECIES:Actinomyces viscosus
+ID:432603
+TITLE:[Pulmonary Actinomyces-viscosus infection].
+ABSTRACT:The isolation of Actinomyces viscosus from the pleural fluid of a patient with pleuro-pneumonia and empyema is described. This is believed to be the first human Actinomyces viscosus infection in Switzerland.
+物种:放线菌viscosus
+ID: 432603
+标题:[肺感染Actinomyces-viscosus]。
+摘要:从胸膜肺炎和脓胸患者的胸膜液中分离粘粘放线菌被描述。这被认为是瑞士首次人类感染粘放线菌。"
+602960,Clostridium sordellii,是,1,,,,肺脓肿,,,https://pubmed.ncbi.nlm.nih.gov/602960/,,,,"SPECIES:Clostridium sordellii
+ID:602960
+TITLE:Pneumonia and empyema caused by Clostridium sordellii.
+ABSTRACT:A case of pleuropulmonary infection caused by Clostridium sordellii is reported for the first time. The clinical presentation with acute onset resembling pulmonary infarction, the absence of toxicity, hemolysis and shock, and response to penicillin and drainage was similar to that of patients with pleuropulmonary infection caused by C. perfringens.
+物种:sordellii梭状芽胞杆菌
+ID: 602960
+由梭菌引起的肺炎和脓胸。
+文摘:首次报道1例由梭菌引起的胸膜肺感染。急性发作类似于肺梗死，无毒性、溶血和休克，对青霉素和引流反应的临床表现与产气荚膜梭菌引起的胸膜肺感染患者相似。"
+1978771,Bacteroides capillosus,是,10-100,,,,其他,4：气管镜活检组织培养出病原体，或者支气管肺泡灌洗液（BALF）定量培养>10**4,无法确定,https://pubmed.ncbi.nlm.nih.gov/1978771/,,,,"SPECIES:Bacteroides capillosus
+ID:1978771
+TITLE:Clindamycin vs penicillin for anaerobic lung infections. High rate of penicillin failures associated with penicillin-resistant Bacteroides melaninogenicus.
+ABSTRACT:Thirty-seven adult patients with anaerobic lung infections (27 lung abscesses and 10 necrotizing pneumonias) were submitted to transthoracic needle-aspiration and/or bronchoscopic specimen brush cultures before therapy and thereafter in all cases considered to be failures. Patients were randomly assigned to receive either clindamycin, 600 mg intravenously every 6 hours, or penicillin G, 2 million U every 4 hours for no less than 8 days, until clinical and radiological improvement became apparent. Treatment was continued orally with clindamycin, 300 mg every 6 hours, or penicillin V, 750 mg every 6 hours, until completing a minimum of 4 weeks. Ten of the 47 anaerobes initially isolated from the lung (nine Bacteroides melaninogenicus and one Bacteroides capillosus) were resistant to penicillin, but none were resistant to clindamycin. Five of the nine patients harboring these penicillin-resistant Bacteroides received penicillin, and all failed to respond to therapy. Overall, eight of the 18 patients in the penicillin group and one of 19 in the clindamycin group failed to respond to therapy. These drugs were equally well tolerated in both groups. The presence of penicillin-resistant Bacteroides is a frequent cause of penicillin failure in patients with anaerobic lung infections. In this setting, clindamycin appears to be the current therapy of choice for initial treatment.
+物种:拟杆菌capillosus
+ID: 1978771
+题目:克林霉素vs青霉素治疗厌氧肺部感染。青霉素的高失败率与耐青霉素类黑素原杆菌有关。
+摘要:37例肺部厌氧感染的成人患者(27例肺脓肿和10例坏死性肺炎)在治疗前接受了经胸穿刺和/或支气管镜标本刷培养，之后所有的病例都被认为是失败的。患者被随机分配给克林霉素，每6小时静脉注射600毫克，或青霉素G，每4小时200万U，持续不少于8天，直到临床和放射学的改善变得明显。继续口服克林霉素，每6小时300毫克，或青霉素V，每6小时750毫克，直到至少完成4周。最初从肺中分离的47种厌氧菌中有10种(9种黑素原拟杆菌和1种毛细拟杆菌)对青霉素耐药，但没有一种对克林霉素耐药。9名携带这些耐青霉素类拟杆菌的患者中，有5名接受了青霉素治疗，但均未对治疗产生反应。总的来说，青霉素组的18名患者中有8名，克林霉素组的19名患者中有1名对治疗无效。两组患者对这些药物的耐受性相同。青霉素耐药类杆菌的存在是青霉素失效的一个常见原因在厌氧肺感染患者。在这种情况下，克林霉素似乎是目前初始治疗的首选疗法。"
+2026891,Clostridium sordellii,是,1,,,,肺脓肿,,,https://pubmed.ncbi.nlm.nih.gov/2026891/,,,,"SPECIES:Clostridium sordellii
+ID:2026891
+TITLE:Empyema caused by Clostridium sordellii, a rare form of pleuropulmonary disease.
+ABSTRACT:Clostridia species are rarely isolated from pleuropulmonary infections in the absence of antecedent trauma. We record the second case reported in the English literature of pneumonia and empyema associated with Clostridium sordelli. This infection is probably acquired through aspiration of oropharyngeal flora and may be associated pulmonary embolism and valvular heart disease. Therapy of empyema associated with C. sordelli should consist of tube thoracostomy as well as penicillin with or without metronidazole or the combination of vancomycin and metronidazole in penicillin-allergic patients.
+物种:sordellii梭状芽胞杆菌
+ID: 2026891
+题目:由梭菌引起的脓胸，一种罕见的胸膜肺疾病。
+摘要:在没有外伤的情况下，梭状芽孢杆菌很少从胸膜肺感染中分离出来。我们记录英文文献报道的第二例肺炎和脓胸合并梭状芽孢杆菌。这种感染可能是通过吸入口咽菌群而获得的，并可能与肺栓塞和心脏瓣膜疾病相关。梭氏菌性脓胸的治疗应包括开胸管和青霉素加或不加甲硝唑的治疗，对青霉素过敏的患者应采用万古霉素和甲硝唑联合治疗。"
+2405009,Selenomonas infelix,是,1-10,,,受损,,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/2405009/, infelix bacteremia appeared in a cancer patient (,748.0,cancer patient,"SPECIES:Selenomonas infelix
+ID:2405009
+TITLE:Bacteremias caused by Selenomonas artemidis and Selenomonas infelix.
+ABSTRACT:We report two different cases of bacteremia caused by two recently described Selenomonas species, Selenomonas artemidis and Selenomonas infelix. Both species are normally found in human buccal flora. S. artemidis bacteremia appeared in a patient (number 1) who presented with an air-fluid pulmonary cavity and clinical conditions consistent with an anaerobic lung abscess. While the patient improved with antibiotic therapy, cultures of respiratory secretions yielded Mycobacterium tuberculosis. This case demonstrated a strong possibility of a coexisting lung abscess due to S. artemidis. S. infelix bacteremia appeared in a cancer patient (number 2) with heart disease during preterminal acute respiratory distress. It was more difficult in this case to assess the clinical impact of the Selenomonas organisms on the patient.
+物种:月形单胞菌属infelix
+ID: 2405009
+标题:由artemidis和infelix Selenomonas引起的菌血症。
+摘要/ ABSTRACT摘要:本文报道2例由新近报道的artemidis和infelix Selenomonas引起的不同菌血症病例。这两个物种通常在人类口腔菌群中发现。artemidis菌血症出现在患者(编号1)谁提出了空气-流体肺腔和临床条件一致的厌氧肺脓肿。抗生素治疗后病情好转，但呼吸道分泌物培养发现结核分枝杆菌。此病例显示一个强烈的可能性并发肺脓肿由于青蒿杆菌。infelix菌血症出现在一个癌症患者(2号)心脏病晚期急性呼吸窘迫期间。在这种情况下更难评估月单胞菌对患者的临床影响。"
+2405009,Selenomonas artemidis,是,1-10,,,受损,,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/2405009/, infelix bacteremia appeared in a cancer patient (,748.0,cancer patient,"SPECIES:Selenomonas infelix
+ID:2405009
+TITLE:Bacteremias caused by Selenomonas artemidis and Selenomonas infelix.
+ABSTRACT:We report two different cases of bacteremia caused by two recently described Selenomonas species, Selenomonas artemidis and Selenomonas infelix. Both species are normally found in human buccal flora. S. artemidis bacteremia appeared in a patient (number 1) who presented with an air-fluid pulmonary cavity and clinical conditions consistent with an anaerobic lung abscess. While the patient improved with antibiotic therapy, cultures of respiratory secretions yielded Mycobacterium tuberculosis. This case demonstrated a strong possibility of a coexisting lung abscess due to S. artemidis. S. infelix bacteremia appeared in a cancer patient (number 2) with heart disease during preterminal acute respiratory distress. It was more difficult in this case to assess the clinical impact of the Selenomonas organisms on the patient.
+物种:月形单胞菌属infelix
+ID: 2405009
+标题:由artemidis和infelix Selenomonas引起的菌血症。
+摘要/ ABSTRACT摘要:本文报道2例由新近报道的artemidis和infelix Selenomonas引起的不同菌血症病例。这两个物种通常在人类口腔菌群中发现。artemidis菌血症出现在患者(编号1)谁提出了空气-流体肺腔和临床条件一致的厌氧肺脓肿。抗生素治疗后病情好转，但呼吸道分泌物培养发现结核分枝杆菌。此病例显示一个强烈的可能性并发肺脓肿由于青蒿杆菌。infelix菌血症出现在一个癌症患者(2号)心脏病晚期急性呼吸窘迫期间。在这种情况下更难评估月单胞菌对患者的临床影响。"
+2600444,Clostridium subterminale,是,1,,,,其他,,死亡,https://pubmed.ncbi.nlm.nih.gov/2600444/,,,,"SPECIES:Clostridium subterminale
+ID:2600444
+TITLE:Pleuropulmonary infection due to Clostridium subterminale.
+ABSTRACT:Clostridial pleuropulmonary infection in a patient with suspected pulmonary embolism is described. Clostridium subterminale was recovered as the sole pathogen on several occasions despite antibiotic therapy. The patient died of cardiac failure after a complicated course in hospital. Clostridium subterminale is a rare pathogen and has not so far been reported as the sole cause of pleuropulmonary infection.
+物种:subterminale梭状芽胞杆菌
+ID: 2600444
+标题:末端梭菌引起的胸膜肺感染。
+摘要:梭菌性胸膜肺感染在一个疑似肺栓塞的病人被描述。尽管接受了抗生素治疗，但仍有几次以末端梭状芽胞杆菌为唯一病原体。病人在医院经过复杂的治疗后死于心力衰竭。摘要末端梭状芽胞杆菌是一种罕见的致病菌，迄今为止尚未被报道为唯一的胸膜肺感染的原因。"
+4018070,Selenomonas sputigena,是,1,,,,肺脓肿,,,https://pubmed.ncbi.nlm.nih.gov/4018070/,A case of fatal septicemia with Selenomonas sputigena in an immunocompromised patient is reported.,194.0,immunocompromised,"SPECIES:Selenomonas sputigena
+ID:4018070
+TITLE:Fatal Selenomonas sputigena septicemia probably originating from lung abscess.
+ABSTRACT:A case of fatal septicemia with Selenomonas sputigena in an immunocompromised patient is reported. The patient had a lung abscess from which the septicemia is believed to have originated. In contrast to the only other case reported in the literature, the isolate from our patient was characterized by very slow and difficult growth.
+物种:月形单胞菌属sputigena
+ID: 4018070
+标题:可能源于肺脓肿的致死性痰月单胞菌败血症。
+摘要:本文报告1例免疫功能低下患者因痰月桂单胞菌致死性败血症。该病人患有肺脓肿，败血症据信是由肺脓肿引起的。与文献报道的其他病例相比，我们患者的分离物的特征是非常缓慢和困难的生长。"
+6402966,Clostridium bifermentans,是,1,,,正常,胸腔积液,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/6402966/,A patient with no known immune compromise presented with necrotizing pneumonia and a pleural effusion.,164.0,no known immune compromise,"SPECIES:Clostridium bifermentans
+ID:6402966
+TITLE:Necrotizing pneumonia and empyema caused by Bacillus cereus and Clostridium bifermentans.
+ABSTRACT:A patient with no known immune compromise presented with necrotizing pneumonia and a pleural effusion. Thoracentesis yielded a sanguinopurulent, foul smelling exudate that showed sheets of polymorphonuclear leukocytes and many gram-positive bacilli. A tube thoracostomy was performed and treatment with intravenous penicillin G was begun. Twenty-four hours later a Bacillus species later identified as Bacillus cereus was identified from aerobic cultures. Because the organism was resistant to penicillin, the patient was switched to intravenous chloramphenicol. A second organism was noted to grow slowly under anaerobic conditions and was later identified as Clostridium bifermentans. Despite initial clinical improvement, fever and empyema persisted resulting in a thoracotomy with resection of the infected lung and extensive decortication. Specimens from the lung tissue obtained at surgery also grew both Bacillus cereus and Clostridium bifermentans. Subsequent review of the original pleural fluid smears revealed a degree of pleomorphism that was not initially appreciated. Prompt surgical intervention combined with appropriate antibiotics resulted in a cure of this unusual aerobic/anaerobic infection.
+物种:bifermentans梭状芽胞杆菌
+ID: 6402966
+标题:蜡样芽孢杆菌和双发酵梭菌引起的坏死性肺炎和脓胸。
+摘要:一个病人没有已知的免疫损害提出坏死性肺炎和胸腔积液。胸腔穿刺可见血脓性、恶臭的渗出物，显示片状多形核白细胞和许多革兰氏阳性杆菌。进行了导管开胸手术，并开始静脉注射青霉素G治疗。24小时后，从需氧培养中鉴定出一种蜡样芽孢杆菌。因为病菌对青霉素有抗药性，病人被改为静脉注射氯霉素。另一种生物在厌氧条件下生长缓慢，后来被鉴定为双发酵梭状芽胞杆菌。尽管最初的临床改善，发烧和脓胸持续，导致开胸切除感染的肺和广泛的去皮。手术获得的肺组织标本也培养出蜡样芽孢杆菌和双发酵梭菌。随后对原胸膜液体涂片的复查显示出一定程度的多形性，这在最初并没有被认识到。及时的外科手术配合适当的抗生素治疗这种罕见的有氧/厌氧感染。"
+6410947,Clostridium bifermentans,是,,,,,肺脓肿,,,https://pubmed.ncbi.nlm.nih.gov/6410947/,,,,"SPECIES:Clostridium bifermentans
+ID:6410947
+TITLE:Necrotizing pneumonia and empyema caused by Bacillus cereus and Clostridium bifermentans.
+ABSTRACT:
+物种:bifermentans梭状芽胞杆菌
+ID: 6410947
+标题:蜡样芽孢杆菌和双发酵梭菌引起的坏死性肺炎和脓胸。
+文摘:"
+7001901,Leptotrichia buccalis,是,1,,,,细菌性肺炎,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/7001901/,,,,"SPECIES:Leptotrichia buccalis
+ID:7001901
+TITLE:Serious infection with Leptotrichia buccalis. Report of a case and review of the literature.
+ABSTRACT:Leptotrichia buccalis is an obligately anaerobic, gram-negative rod classified as a member of the family Bacteroidaceae. Organisms found in this family (Bacteroides and Fusobacteria) are frequent causes of severe infection in human beings. L. buccalis is a constituent of normal oral flora. Leptotrichia has rarely been recovered from mixed infections primarily of the head and neck. It has not previously been reported as a cause of serious infection in man. We report a case of cavitary pneumonia and septicemia caused by L. buccalis. The colonial morphology and gram stain of L. buccalis are characteristic. Definitive identification is made by gas-liquid chromatography. Leptotrichia have been shown to contain potent endotoxin. L. buccalis has the potential to be a virulent, pathogenic microorganism, especially in the compromised host.
+物种:纤毛菌属buccalis
+ID: 7001901
+题目:严重的颊部细毛菌感染。病例报告及文献复习。
+摘要:颊纤毛虫(Leptotrichia buccalis)是一种专性厌氧的革兰氏阴性杆菌，属于拟杆菌科(Bacteroidaceae)。在这个家族中发现的微生物(拟杆菌门和梭杆菌门)是引起人类严重感染的常见原因。唇花是正常口腔菌群的组成部分。以头颈部为主的混合性感染很少能治愈瘦毛症。它以前没有被报道为导致严重的人类感染的原因。我们报告一例由颊乳杆菌引起的空洞性肺炎及败血症。颊乳杆菌的菌落形态和革兰氏染色具有特征性。用气-液相色谱法进行最终鉴定。纤毛虫已被证明含有强力的内毒素。颊乳杆菌具有潜在的毒性，病原微生物，特别是在受损的宿主。"
+7276145,Eubacterium brachy,是,1,,,,,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/7276145/,,,,"SPECIES:Eubacterium brachy
+ID:7276145
+TITLE:Pleuropulmonary infection associated with Eubacterium brachy, a new species of Eubacterium.
+ABSTRACT:A new species of Eubacterium was isolated from a case of pleural effusion. A case history and description of the organism are given.
+物种:真细菌短
+ID: 7276145
+标题:与真细菌相关的胸膜肺感染，真细菌的一个新种。
+文摘:从一例胸腔积液中分离到真细菌一新种。给出了该生物的病例和描述。"
+7752213,Porphyromonas oralis,是,10-100,,,,,,,https://pubmed.ncbi.nlm.nih.gov/7752213/,,,,"SPECIES:Porphyromonas oralis
+ID:7752213
+TITLE:Prevotella and Porphyromonas infections in children.
+ABSTRACT:From 1974 to 1994, 504 isolates of Prevotella and Porphyromonas spp. were obtained from 435 (21%) of 2033 specimens from 418 children. They included 160 (32%) Pr. melaninogenica, 105 (21%) Pr. intermedia, 84 (17%) P. asaccharolytica, 58 (12%) Pr. orisbuccae, and 58 (12%) Pr. oralis. Most Prevotella and Porphyromonas spp. were isolated from abscesses (176), pulmonary infections (85), ear infections (82), wound infections (44), peritonitis (38), paronychia (15) and chronic sinusitis (14). Predisposing conditions were noted in 111 (27%) of the cases; these included previous surgery in 41 (10%), foreign body in 36 (9%), neurological deficiencies in 29 (7%), immunodeficiency in 21 (5%), steroid therapy in 12 (4%), diabetes in 8 (2%) and malignancy in 7 (2%). Prevotella and Porphyromonas spp. were the only isolates in 14 (3%) patients, and mixed infection was encountered in 404 (97%). The micro-organisms most commonly isolated with Prevotella and Porphyromonas spp. were anaerobic cocci (393 isolates), Fusobacterium spp. (108), Bacteroides spp. (B. fragilis group) (95), Escherichia coli (56) and other gram-negative anaerobic bacilli (52). Most Bacteroides spp. and E. coli were isolated from intra-abdominal infections and skin and soft tissue infections around the rectal area, whereas most Fusobacterium spp. were isolated from oropharyngeal, pulmonary and head and neck sites. beta-Lactamase production was detected in 191 (38%) Prevotella and Porphyromonas isolates from all body sites. All patients received antimicrobial therapy, and surgical drainage was performed in 173 (41%) cases. Four patients died from their infection. These data illustrate the spectrum and importance of Prevotella and Porphyromonas spp. in infections in children.
+物种:Porphyromonas oralis
+ID: 7752213
+题目:普氏菌和卟啉单胞菌在儿童中的感染。
+摘要/ ABSTRACT摘要:1974 ~ 1994年，418名儿童共采集2033份标本，435份(21%)分离到普雷沃特菌和卟啉单胞菌504株。其中，黑色素原性pr 160(32%)，中间pr 105(21%)，溶多糖pr 84 (17%)， orisbuccae pr 58 (12%)， orisbuccae pr 58(12%)。从脓肿(176例)、肺部感染(85例)、耳部感染(82例)、伤口感染(44例)、腹膜炎(38例)、甲沟炎(15例)和慢性鼻窦炎(14例)中分离出普氏菌和卟啉单胞菌。111例(27%)的病例中发现了易患疾病;这些患者中有手术史41例(10%)，异物36例(9%)，神经功能缺陷29例(7%)，免疫缺陷21例(5%)，类固醇治疗12例(4%)，糖尿病8例(2%)，恶性肿瘤7例(2%)。14例(3%)患者仅分离普氏菌和卟啉单胞菌，404例(97%)患者存在混合感染。普氏菌和卟啉单胞菌最常分离的微生物为厌氧球菌(393株)、梭杆菌(108株)、拟杆菌(脆弱杆菌组)(95株)、大肠杆菌(56株)和其他革兰氏阴性厌氧杆菌(52株)。拟杆菌和大肠杆菌主要分离于腹腔内感染和直肠周围皮肤和软组织感染，而梭杆菌主要分离于口咽、肺和头颈部。191株(38%)普雷沃氏菌和卟啉单胞菌均检测到β -内酰胺酶的产生。所有患者均接受抗菌治疗，173例(41%)行手术引流。四名病人死于感染。这些数据说明了普氏菌和卟啉单胞菌在儿童感染中的谱系和重要性。"
+7752213,Porphyromonas intermedia,是,10-100,,,,,,,https://pubmed.ncbi.nlm.nih.gov/7752213/,,,,"SPECIES:Porphyromonas oralis
+ID:7752213
+TITLE:Prevotella and Porphyromonas infections in children.
+ABSTRACT:From 1974 to 1994, 504 isolates of Prevotella and Porphyromonas spp. were obtained from 435 (21%) of 2033 specimens from 418 children. They included 160 (32%) Pr. melaninogenica, 105 (21%) Pr. intermedia, 84 (17%) P. asaccharolytica, 58 (12%) Pr. orisbuccae, and 58 (12%) Pr. oralis. Most Prevotella and Porphyromonas spp. were isolated from abscesses (176), pulmonary infections (85), ear infections (82), wound infections (44), peritonitis (38), paronychia (15) and chronic sinusitis (14). Predisposing conditions were noted in 111 (27%) of the cases; these included previous surgery in 41 (10%), foreign body in 36 (9%), neurological deficiencies in 29 (7%), immunodeficiency in 21 (5%), steroid therapy in 12 (4%), diabetes in 8 (2%) and malignancy in 7 (2%). Prevotella and Porphyromonas spp. were the only isolates in 14 (3%) patients, and mixed infection was encountered in 404 (97%). The micro-organisms most commonly isolated with Prevotella and Porphyromonas spp. were anaerobic cocci (393 isolates), Fusobacterium spp. (108), Bacteroides spp. (B. fragilis group) (95), Escherichia coli (56) and other gram-negative anaerobic bacilli (52). Most Bacteroides spp. and E. coli were isolated from intra-abdominal infections and skin and soft tissue infections around the rectal area, whereas most Fusobacterium spp. were isolated from oropharyngeal, pulmonary and head and neck sites. beta-Lactamase production was detected in 191 (38%) Prevotella and Porphyromonas isolates from all body sites. All patients received antimicrobial therapy, and surgical drainage was performed in 173 (41%) cases. Four patients died from their infection. These data illustrate the spectrum and importance of Prevotella and Porphyromonas spp. in infections in children.
+物种:Porphyromonas oralis
+ID: 7752213
+题目:普氏菌和卟啉单胞菌在儿童中的感染。
+摘要/ ABSTRACT摘要:1974 ~ 1994年，418名儿童共采集2033份标本，435份(21%)分离到普雷沃特菌和卟啉单胞菌504株。其中，黑色素原性pr 160(32%)，中间pr 105(21%)，溶多糖pr 84 (17%)， orisbuccae pr 58 (12%)， orisbuccae pr 58(12%)。从脓肿(176例)、肺部感染(85例)、耳部感染(82例)、伤口感染(44例)、腹膜炎(38例)、甲沟炎(15例)和慢性鼻窦炎(14例)中分离出普氏菌和卟啉单胞菌。111例(27%)的病例中发现了易患疾病;这些患者中有手术史41例(10%)，异物36例(9%)，神经功能缺陷29例(7%)，免疫缺陷21例(5%)，类固醇治疗12例(4%)，糖尿病8例(2%)，恶性肿瘤7例(2%)。14例(3%)患者仅分离普氏菌和卟啉单胞菌，404例(97%)患者存在混合感染。普氏菌和卟啉单胞菌最常分离的微生物为厌氧球菌(393株)、梭杆菌(108株)、拟杆菌(脆弱杆菌组)(95株)、大肠杆菌(56株)和其他革兰氏阴性厌氧杆菌(52株)。拟杆菌和大肠杆菌主要分离于腹腔内感染和直肠周围皮肤和软组织感染，而梭杆菌主要分离于口咽、肺和头颈部。191株(38%)普雷沃氏菌和卟啉单胞菌均检测到β -内酰胺酶的产生。所有患者均接受抗菌治疗，173例(41%)行手术引流。四名病人死于感染。这些数据说明了普氏菌和卟啉单胞菌在儿童感染中的谱系和重要性。"
+7752213,Porphyromonas melaninogenica,是,10-100,,,,,,,https://pubmed.ncbi.nlm.nih.gov/7752213/,,,,"SPECIES:Porphyromonas oralis
+ID:7752213
+TITLE:Prevotella and Porphyromonas infections in children.
+ABSTRACT:From 1974 to 1994, 504 isolates of Prevotella and Porphyromonas spp. were obtained from 435 (21%) of 2033 specimens from 418 children. They included 160 (32%) Pr. melaninogenica, 105 (21%) Pr. intermedia, 84 (17%) P. asaccharolytica, 58 (12%) Pr. orisbuccae, and 58 (12%) Pr. oralis. Most Prevotella and Porphyromonas spp. were isolated from abscesses (176), pulmonary infections (85), ear infections (82), wound infections (44), peritonitis (38), paronychia (15) and chronic sinusitis (14). Predisposing conditions were noted in 111 (27%) of the cases; these included previous surgery in 41 (10%), foreign body in 36 (9%), neurological deficiencies in 29 (7%), immunodeficiency in 21 (5%), steroid therapy in 12 (4%), diabetes in 8 (2%) and malignancy in 7 (2%). Prevotella and Porphyromonas spp. were the only isolates in 14 (3%) patients, and mixed infection was encountered in 404 (97%). The micro-organisms most commonly isolated with Prevotella and Porphyromonas spp. were anaerobic cocci (393 isolates), Fusobacterium spp. (108), Bacteroides spp. (B. fragilis group) (95), Escherichia coli (56) and other gram-negative anaerobic bacilli (52). Most Bacteroides spp. and E. coli were isolated from intra-abdominal infections and skin and soft tissue infections around the rectal area, whereas most Fusobacterium spp. were isolated from oropharyngeal, pulmonary and head and neck sites. beta-Lactamase production was detected in 191 (38%) Prevotella and Porphyromonas isolates from all body sites. All patients received antimicrobial therapy, and surgical drainage was performed in 173 (41%) cases. Four patients died from their infection. These data illustrate the spectrum and importance of Prevotella and Porphyromonas spp. in infections in children.
+物种:Porphyromonas oralis
+ID: 7752213
+题目:普氏菌和卟啉单胞菌在儿童中的感染。
+摘要/ ABSTRACT摘要:1974 ~ 1994年，418名儿童共采集2033份标本，435份(21%)分离到普雷沃特菌和卟啉单胞菌504株。其中，黑色素原性pr 160(32%)，中间pr 105(21%)，溶多糖pr 84 (17%)， orisbuccae pr 58 (12%)， orisbuccae pr 58(12%)。从脓肿(176例)、肺部感染(85例)、耳部感染(82例)、伤口感染(44例)、腹膜炎(38例)、甲沟炎(15例)和慢性鼻窦炎(14例)中分离出普氏菌和卟啉单胞菌。111例(27%)的病例中发现了易患疾病;这些患者中有手术史41例(10%)，异物36例(9%)，神经功能缺陷29例(7%)，免疫缺陷21例(5%)，类固醇治疗12例(4%)，糖尿病8例(2%)，恶性肿瘤7例(2%)。14例(3%)患者仅分离普氏菌和卟啉单胞菌，404例(97%)患者存在混合感染。普氏菌和卟啉单胞菌最常分离的微生物为厌氧球菌(393株)、梭杆菌(108株)、拟杆菌(脆弱杆菌组)(95株)、大肠杆菌(56株)和其他革兰氏阴性厌氧杆菌(52株)。拟杆菌和大肠杆菌主要分离于腹腔内感染和直肠周围皮肤和软组织感染，而梭杆菌主要分离于口咽、肺和头颈部。191株(38%)普雷沃氏菌和卟啉单胞菌均检测到β -内酰胺酶的产生。所有患者均接受抗菌治疗，173例(41%)行手术引流。四名病人死于感染。这些数据说明了普氏菌和卟啉单胞菌在儿童感染中的谱系和重要性。"
+8309301,Propionibacterium propionicum,是,1,,,,肺脓肿,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/8309301/,,,,"SPECIES:Propionibacterium propionicum
+ID:8309301
+TITLE:[Anaerobic Propionibacterium in opportunistic infections].
+ABSTRACT:In three cases, two of which regarded exudative pericardium inflammation and one of lung abscess, biopsy revealed negative bacteriological results. Blood cultures resulted in culture of anaerobic Gram-negative bacteria from Propionibacterium genus. Precise chemo- geno-taxonomic studies were performed which confirmed generic identification of isolated strains. These were following: in cell wall--L-DAP, alanine, glycine, galactose, glucose, mannose; lack if mycolic acids; %GC 58-59. Basing on additional bacteriological studies it was established that two strains belong to the genus Propionibacterium acnes (type I), while third strain appeared to be Propionibacterium propionicum (before Arachnia propionica). These results confirm growing participation of relative pathogenic bacteria in opportunistic infections. It suggests necessity of blood cultures in cases subjected to prolonged therapy, especially when immunosuppression is involved.
+物种:丙酸丙酸菌属小虫身上拿
+ID: 8309301
+题目:[机会性感染中的厌氧丙酸杆菌]。
+摘要:在3例病例中，其中2例为渗出性心包炎症，1例为肺脓肿，活检显示细菌阴性结果。血培养结果为丙酸杆菌属厌氧革兰氏阴性菌培养。进行了精确的化学-基因分类研究，证实了分离菌株的属鉴定。细胞壁中L-DAP、丙氨酸、甘氨酸、半乳糖、葡萄糖、甘露糖;缺乏霉菌酸;% GC 58-59。根据另外的细菌学研究，有两株菌株属于acnes丙酸杆菌属(type I)，而第三株菌株似乎是丙酸杆菌(Propionibacterium propiicum) (Arachnia propionica之前)。这些结果证实了相对致病菌在机会性感染中越来越多的参与。这表明，在长期治疗的病例中，特别是涉及免疫抑制时，血液培养是必要的。"
+15897651,Porphyromonas asaccharolytica,是,1,男,17-65,,胸腔积液,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/15897651/,,,,"SPECIES:Porphyromonas asaccharolytica
+ID:15897651
+TITLE:Lemierre's syndrome: Porphyromonas asaccharolytica as a putative pathogen.
+ABSTRACT:A case of Lemierre's syndrome is reported in which metastatic abscesses resulted from septic thrombophlebitis of the internal jugular vein secondary to bacterial pharyngitis. A 32-year-old male suffering from a painful left-sided neck mass, sore throat, and fever was admitted to our hospital. Computed tomography revealed thrombosis of the left internal jugular vein, septic pulmonary emboli, and a liver abscess. Blood culture showed Porphyromonas asaccharolytica. Although empyema occurred transiently during the treatment, the patient recovered following prolonged antimicrobial therapy. Although Fusobacterium species are a well-known cause of Lemierre's syndrome, cases in whom Porphyromonas species was isolated have scarcely been reported. Moreover, case reports from Japan have been few.
+物种:Porphyromonas asaccharolytica
+ID: 15897651
+标题:Lemierre综合征:一种公认的溶糖卟啉单胞菌。
+摘要:本文报道一例细菌性咽炎继发于颈内静脉的脓毒性血栓性静脉炎引起的转移性脓肿Lemierre综合征。一名32岁男性，因左侧颈部肿块疼痛、喉痛及发热入院。电脑断层显示左颈内静脉血栓形成，脓毒性肺栓塞和肝脓肿。血培养显示溶糖卟啉单胞菌。虽然脓胸在治疗期间短暂发生，但患者在长期抗菌治疗后恢复。虽然梭杆菌属是引起Lemierre综合征的一个众所周知的原因，但是分离出卟啉单胞菌属的病例鲜有报道。此外，来自日本的病例报告很少。"
+16344510,Clostridium baratii,是,10-100,群体,17-65,,机械通气,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/16344510/,,,,"SPECIES:Clostridium baratii
+ID:16344510
+TITLE:Adult botulism type F in the United States, 1981-2002.
+ABSTRACT:
+BACKGROUND: Clostridium botulinum neurotoxin types A, B, and E cause most cases of the paralytic disease botulism. Little is known about the epidemiology, clinical features, or microbiology of botulism type F. 
+METHODS: Cases of adult type F botulism were identified by review of data collected by CDC's National Botulism Surveillance System between 1981 and 2002. A case was either an individual whose serum or stool demonstrated type F toxin or whose stool culture yielded an organism producing toxin type F. A detailed review of cases' medical charts and laboratory data from CDC and local health departments was performed. 
+RESULTS: Between 1981 and 2002, 1,269 cases of botulism among adults and infants were reported to CDC; 13 (1%) were adult type F. The median age of type F cases was 54 years; 7 (54%) were female. None were part of outbreaks. A toxigenic Clostridium baratii was identified in 9 (69%) of 13 cases. Among 11 cases for which clinical data were available, all required mechanical ventilation for a median duration of 17 days (range, 10 to 84); 8 (73%) were intubated within 24 hours of symptom onset. All patients had nearly complete or complete quadriplegia at the nadir of neurologic dysfunction, which occurred on average on day 5. On average by day 8, improvement in neuromuscular function was noted. The median duration of acute hospitalization was 31 days (range, 20 to 60). No deaths were reported. In only one case was a possible foodborne etiology identified. 
+CONCLUSIONS: Toxigenic C baratii are the sole documented causes of type F botulism in the United States since 1981. These cases are characterized by a fulminant course with rapid progression to respiratory failure and paralysis, making early recognition and intervention critical to appropriate management.
+物种:baratii梭状芽胞杆菌
+ID: 16344510
+题目:1981-2002年美国成人F型肉毒杆菌中毒。
+文摘:
+背景:A、B、E型肉毒梭菌神经毒素是麻痹性疾病肉毒中毒的主要病因。对于F型肉毒杆菌中毒的流行病学、临床特征或微生物学了解甚少。
+方法:通过对1981年至2002年CDC全国肉毒中毒监测系统收集的数据进行分析，确定成人F型肉毒中毒病例。1例患者的血清或粪便显示为F型毒素，或其粪便培养产生F型毒素的有机体。对病例的医学图表和来自疾病预防控制中心和当地卫生部门的实验室数据进行了详细审查。
+结果:1981 - 2002年，美国疾病控制与预防中心共报告成人和婴儿肉毒杆菌中毒病例1269例;成年F型患者13例(1%)，F型患者中位年龄54岁;7(54%)为女性。这些都不是疫情的一部分。13例中有9例(69%)发现了产毒的巴尔氏梭菌。在有临床资料的11例患者中，所有患者均需要机械通气，中位时间为17天(范围为10至84天);8例(73%)在症状出现24小时内插管。所有患者均在神经功能障碍最严重时出现几乎完全或完全的四肢瘫，平均发生在第5天。平均到第8天，神经肌肉功能得到改善。急性住院时间中位数为31天(范围为20至60天)。没有死亡报告。只有一个病例被确定为可能的食源性病因。
+结论:产毒C baratii是1981年以来美国唯一有记录的F型肉毒中毒原因。这些病例的特点是暴发性发展为呼吸衰竭和瘫痪，早期发现和干预对适当的治疗至关重要。"
+16703936,Clostridium ramosum,是,1,男,17-65,,肺脓肿,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/16703936/,,,,"SPECIES:Clostridium ramosum
+ID:16703936
+TITLE:Lung abscess caused by Clostridium ramosum.
+ABSTRACT:A 49-year-old male presented with weight loss and fever. Further evaluation revealed lung abscesses and Clostridium ramosum bacteremia. This is an unusual cause of infection. There have only been seven reports of infections caused by C. ramosum.
+物种:ramosum梭状芽胞杆菌
+ID: 16703936
+题目:梭状芽胞杆菌引起的肺脓肿。
+摘要:男性，49岁，表现为体重减轻、发热。进一步评估发现肺脓肿和ramosum梭状芽孢杆菌血症。这是一种不常见的感染原因。目前只有7例由C. ramosum引起的感染报告。"
+17605768,Solobacterium moorei,是,1,男,,,其他,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/17605768/,,,,"SPECIES:Solobacterium moorei
+ID:17605768
+TITLE:Femoral vein thrombophlebitis and septic pulmonary embolism due to a mixed anaerobic infection including Solobacterium moorei: a case report.
+ABSTRACT:
+BACKGROUND: Primary foci of necrobacillosis infection outside the head and neck are uncommon but have been reported in the urogenital or gastrointestinal tracts. Reports of infection with Solobacterium moorei are rare. CASE PRESENTATION: A 37-year-old male intravenous drug user was admitted with pain in his right groin, fever, rigors and vomiting following a recent injection into the right femoral vein. Admission blood cultures grew Fusobacterium nucleatum, Solobacterium moorei and Bacteroides ureolyticus. The patient was successfully treated with intravenous penicillin and metronidazole. 
+CONCLUSION: This case report describes an unusual case of femoral thrombophlebitis with septic pulmonary embolism associated with anaerobic organisms in a groin abscess. Solobacterium moorei, though rarely described, may also have clinically significant pathogenic potential.
+物种:Solobacterium moorei
+ID: 17605768
+标题:股静脉血栓性静脉炎和脓毒性肺栓塞由于混合厌氧感染包括单细菌moorei:一个病例报告。
+文摘:
+背景:头颈部以外的坏死性杆菌感染的原发灶并不常见，但有报道称发生在泌尿生殖道或胃肠道。感染莫雷梭菌的报告很少。病例报告:一名37岁男性静脉注射毒品使用者因其右腹股沟疼痛，发烧，僵硬和呕吐最近注射进入右股静脉。入院血培养培养出核梭菌、莫雷梭菌和溶尿杆菌。经静脉注射青霉素和甲硝唑治疗成功。
+结论:这个病例报告描述了一个不寻常的病例的血栓静脉炎脓毒性肺栓塞合并厌氧菌腹股沟脓肿。莫雷单细菌，虽然很少描述，也可能具有临床显著的致病潜力。"
+18174308,Clostridium baratii,是,1,男,17-65,抑制,支气管炎,2：肺组织病原学证据,死亡,https://pubmed.ncbi.nlm.nih.gov/18174308/,,,,"SPECIES:Clostridium baratii
+ID:18174308
+TITLE:Lung abscess due to Clostridium baratii infection in a patient with invasive pulmonary aspergillosis.
+ABSTRACT:
+物种:baratii梭状芽胞杆菌
+ID: 18174308
+标题:侵袭性肺曲霉病患者因巴尔氏梭菌感染引起的肺脓肿。
+文摘:"
+19552995,Dialister,是,1,,,,COPD,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/19552995/,,,,"SPECIES:Dialister
+ID:19552995
+TITLE:[Pneumonia due to Dialister pneumosintes in a patient with chronic obstructive pulmonary disease].
+ABSTRACT:
+物种:Dialister
+ID: 19552995
+题目:[慢性阻塞性肺疾病患者的双肺肺炎]。
+文摘:"
+21193258,Finegoldia magna,是,1,男,17-65,,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/21193258/,,,,"SPECIES:Finegoldia magna
+ID:21193258
+TITLE:Necrotising pneumonia due to Finegoldia magna.
+ABSTRACT:
+物种:Finegoldia麦格纳
+ID: 21193258
+标题:大叶蝉致坏死性肺炎。
+文摘:"
+21686384,Actinomyces graevenitzii,是,1,,17-65,抑制,细菌性肺炎,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/21686384/,"old patient receiving regular infusions of infliximab,",572.0,infliximab,"SPECIES:Actinomyces graevenitzii
+ID:21686384
+TITLE:Pulmonary actinomycosis complicating infliximab therapy for Crohn disease.
+ABSTRACT:The use of anti-tumour necrosis factor (TNF) agents has expanded significantly over the past few years, particularly for rheumatological diseases and Crohn disease. A number of associated opportunistic infections have been observed as a result of suppression of T-cell-mediated immunity, the most frequent being tuberculosis. This report describes a case of pulmonary actinomycosis in a 52-year-old patient receiving regular infusions of infliximab, an anti-TNF agent, for Crohn disease. He presented with a 12-day history of fever, night sweats and a non-productive cough on a background of a 9-year history of Crohn terminal ileitis. There was radiological evidence of a left upper lobe non-cavitatory pneumonia and bronchoscopic lavage fluid eventually grew Actinomyces graevenitzii. The patient was hospitalised and improved with antibiotic therapy. Within 4 weeks there was almost complete radiological resolution and infliximab was restarted after 4 months without further complication.
+物种:放线菌graevenitzii
+ID: 21686384
+标题:肺放线菌病合并英夫利昔单抗治疗克罗恩病。
+摘要:抗肿瘤坏死因子(TNF)药物的使用在过去几年中显著扩大，特别是用于风湿病和克罗恩病。许多相关的机会性感染被观察到是t细胞介导免疫抑制的结果，最常见的是结核病。本报告描述了一例肺放线菌病，52岁的患者接受定期输注英夫利昔单抗(一种抗肿瘤坏死因子的药物)治疗克罗恩病。他有12天的发热史，盗汗和非生产性咳嗽，背景是9年的克罗恩终末期回肠炎。放射学证据显示左上肺叶非空泡性肺炎，支气管镜下灌洗液最终生长出graevenitzii放线菌。患者住院治疗，并通过抗生素治疗得到改善。4周内，放射学几乎完全消退，4个月后英夫利昔单抗重新启动，没有进一步并发症。"
+22445645,Actinomyces cardiffensis,是,1,男,65以上,正常,肺脓肿,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/22445645/,old man was hospitalized with fever and headache for 20 days.,405.0,hospitalized wit,"SPECIES:Actinomyces cardiffensis
+ID:22445645
+TITLE:Actinomyces cardiffensis septicemia: a case report.
+ABSTRACT:Actinomyces cardiffensis is an anaerobic, Gram-positive, non-spore-forming rod that was first identified by Hall et al. (Hall V. et al. (2002) J Clin Microbiol 40:3427-31). Here we report a case of bacteremia with liver and lung abscesses associated with A. cardiffensis. A 67-year-old man was hospitalized with fever and headache for 20 days. Blood culture revealed an Actinomyces species, which was ultimately identified as A. cardiffensis by 16S rRNA gene sequencing. A computed tomography scan of his chest showed small abscesses in his lung and liver. After a 3-week course of intravenous ceftriaxone, the patient showed rapid improvement. The patient was transitioned to oral amoxicillin for the remainder of his antibiotic treatment.
+物种:放线菌cardiffensis
+ID: 22445645
+题目:放线菌败血症1例。
+摘要:cardiffensis放线菌是一种厌氧、革兰氏阳性、非孢子形成的杆状菌，最早由Hall等人鉴定(Hall V. et al. (2002) J Clin Microbiol 40:3427-31)。在此，我们报告一个与卡丹菌有关的菌血症伴肝和肺脓肿的病例。一名67岁男子因发烧头痛20天住院。血培养发现一种放线菌，经16S rRNA基因测序，最终鉴定为cardiffensis。胸部电脑断层扫描显示他的肺和肝脏有小脓肿。经3周静脉注射头孢曲松后，患者病情迅速好转。病人在剩下的抗生素治疗中转为口服阿莫西林。"
+22516132,Actinomyces graevenitzii,是,1,男,65以上,正常,支扩,2：肺组织病原学证据,治愈,https://pubmed.ncbi.nlm.nih.gov/22516132/, The only abnormal laboratory data were an elevated erythrocyte sedimentation rate and C-,359.0,only abnormal laboratory data,"SPECIES:Actinomyces graevenitzii
+ID:22516132
+TITLE:Pulmonary Actinomyces graevenitzii infection presenting as organizing pneumonia diagnosed by PCR analysis.
+ABSTRACT:We report what is believed to be the first case of pulmonary Actinomyces graevenitzii infection presenting as organizing pneumonia. Fever and night sweats developed in a 69-year-old male. The only abnormal laboratory data were an elevated erythrocyte sedimentation rate and C-reactive protein level. On chest images, multiple consolidations with air bronchograms were seen in the bilateral lungs. Histological examination from lung biopsy revealed a pattern of organizing pneumonia with microabscesses, but definitive diagnosis was not obtained because culture from lung specimen was negative. A. graevenitzii was eventually identified in the lung biopsy specimen by detection of an Actinomyces-specific PCR product followed by 16S rRNA gene sequencing. The patient was treated with high-dose ampicillin intravenously for 1 month, followed by oral amoxicillin and clarithromycin for 6 months, and recovered. We suggest that actinomycosis can present as organizing pneumonia, and identification of infection by PCR analysis and rRNA gene sequencing is a useful strategy in cases that are difficult to diagnose.
+物种:放线菌graevenitzii
+ID: 22516132
+标题:肺部graevenitzii放线菌感染，PCR分析诊断为组织性肺炎。
+摘要:我们报告了首例以组织性肺炎为表现的肺部graevenitzii放线菌感染病例。69岁男性患者出现发热和盗汗。唯一异常的实验室数据是红细胞沉降率升高和c反应蛋白水平。在胸部图像上，双侧肺可见多个实变伴支气管充气征。肺活检的组织学检查显示为组织性肺炎伴微脓肿，但由于肺标本培养为阴性，无法得到明确的诊断。通过检测放线菌特异性PCR产物，并进行16S rRNA基因测序，最终在肺活检标本中鉴定出graevenitzii。给予大剂量氨苄西林静脉滴注1个月，之后口服阿莫西林和克拉霉素6个月，痊愈。我们认为放线菌病可以表现为组织性肺炎，在难以诊断的病例中，通过PCR分析和rRNA基因测序鉴定感染是一种有用的策略。"
+22760049,Actinomyces graevenitzii,是,1,女,17-65,正常,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/22760049/,,,,"SPECIES:Actinomyces graevenitzii
+ID:22760049
+TITLE:Multiple lung abscesses caused by Actinomyces graevenitzii mimicking acute pulmonary coccidioidomycosis.
+ABSTRACT:Actinomyces graevenitzii is a newly recognized Actinomyces species that is seldom isolated from clinical specimens. A case of multiple pulmonary abscesses mimicking acute pulmonary coccidioidomycosis is described in this study, and the findings indicate that this organism is an opportunistic human pathogen.
+物种:放线菌graevenitzii
+ID: 22760049
+题目:模拟急性肺球虫病的graevenitzii放线菌引起的多发肺脓肿。
+摘要:graevenitzii放线菌是一种新发现的放线菌，很少从临床标本中分离。在本研究中描述了一例模仿急性肺球虫菌病的多发性肺脓肿，结果表明这种微生物是一种机会主义的人类病原体。"
+22798514,Fusobacterium varium,是,1,男,17-65,正常,其他,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/22798514/,We report a case of a previously healthy 33-,135.0,previously healthy,"SPECIES:Fusobacterium varium
+ID:22798514
+TITLE:Lemierre syndrome: from pharyngitis to fulminant sepsis.
+ABSTRACT:We report a case of a previously healthy 33-year-old male who presented to his primary care physician with nausea, vomiting, diarrhoea and fever. One week prior to presentation the patient reported a history of sore throat which he presumed to be a viral infection and sought no medical attention. Upon hospital presentation, the patient was admitted and rapidly progressed to sepsis and respiratory failure. Goal directed therapy was initiated and the patient was intubated. Further clinical work up included blood cultures revealing Fusobacterium varium bacteraemia, and CT and ultrasound imaging demonstrated thrombosis of the internal jugular vein and septic pulmonary emboli. A diagnosis of Lemierre syndrome was made, and antibiotics as well as anticoagulation therapy were initiated. The patient's clinical condition improved with treatment, and he was discharged home on hospital day 12 with completion of an uneventful 4-week course of outpatient antibiotic and anticoagulation therapy.
+物种:梭菌属varium
+ID: 22798514
+标题:Lemierre综合征:从咽炎到暴发性败血症。
+摘要:我们报告一例先前健康的33岁男性患者，以恶心、呕吐、腹泻和发烧就诊于初级保健医生。在就诊前一周，患者报告有咽喉痛病史，他推测为病毒感染，未寻求治疗。经医院介绍，患者入院后迅速发展为脓毒症和呼吸衰竭。患者接受目标导向治疗并插管。进一步的临床工作包括血液培养显示可变梭菌血症，CT和超声成像显示颈内静脉血栓形成和脓毒性肺栓子。诊断为Lemierre综合征，并开始使用抗生素和抗凝治疗。经治疗，患者临床情况好转，住院第12天，顺利完成门诊4周抗生素抗凝治疗，出院回家。"
+23064570,Actinomyces cardiffensis,是,1,,,,肺脓肿,1：同时具备肺组织病理+病原学证据,,https://pubmed.ncbi.nlm.nih.gov/23064570/,,,,"SPECIES:Actinomyces cardiffensis
+ID:23064570
+TITLE:Pulmonary actinomycosis caused by Actinomyces cardiffensis.
+ABSTRACT:We herein present the first case of pulmonary actinomycosis caused by Actinomyces cardiffensis (A. cardiffensis). A computed tomography (CT) examination revealed a nodule with cavitation in the left upper lobe of the lung. One month later, the lesion had almost disappeared, but a new nodule with peripheral consolidation had appeared in the right middle lobe. Because organizing pneumonia was suspected, prednisolone was begun and improvement was seen. However, two months after the initiation of corticosteroid administration, a chest CT scan showed a lung abscess. The patient underwent surgical resection of the abscess. A. cardiffensis was identified by an amplified 16S ribosomal DNA restriction analysis of a pus sample.
+物种:放线菌cardiffensis
+ID: 23064570
+题目:卡氏放线菌引起的肺放线菌病。
+摘要:我们在这里提出了第一例由放线菌引起的肺放线菌病(A. cardiffensis)。电脑断层扫描显示左肺上叶有一个结节伴空化。1个月后，病灶几乎消失，但右侧中叶出现一新的结节伴周围实变。因怀疑为组织性肺炎，开始使用泼尼松龙，病情好转。然而，开始使用皮质类固醇两个月后，胸部CT扫描显示肺脓肿。病人接受了手术切除脓肿。用16S核糖体DNA扩增限制性内切分析方法对卡迪法菌进行鉴定。"
+23435719,Porphyromonas asaccharolytica,是,1,男,17-65,受损,肺脓肿,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/23435719/,"old man who developed a left peritonsillar abscess, thrombophlebitis of the left internal jugular vein,",271.0,"developed a left peritonsillar abscess, thrombophlebitis o","SPECIES:Porphyromonas asaccharolytica
+ID:23435719
+TITLE:A rare case of Lemierre`s syndrome caused by Porphyromonas asaccharolytica.
+ABSTRACT:Lemierre's syndrome is only very rarely caused by Porphyromonas asaccharolytica. Here, we report the case of a 35-year-old man who developed a left peritonsillar abscess, thrombophlebitis of the left internal jugular vein, and septic embolization of both lungs. Anaerobic P. asaccharolytica was isolated in the blood cultures, and we subsequently confirmed the diagnosis as Lemierre's syndrome. Our case indicates that although P. asaccharolytica is not commonly found in oral cavities, this organism may still cause Lemierre's syndrome. Consequently, when it is detected in blood cultures, the treating physician should perform the medical examination while keeping in mind the possibility that the patient could have Lemierre's syndrome. 
+物种:Porphyromonas asaccharolytica
+ID: 23435719
+标题:一个由嗜糖性卟啉单胞菌引起的Lemierre综合征的罕见病例。
+摘要:Lemierre综合征是由溶糖卟啉单胞菌引起的罕见疾病。在此，我们报告一位35岁男性病患，罹患左扁桃体周围脓肿、左颈内静脉血栓性静脉炎及双肺脓毒性栓塞。从血培养中分离出厌氧溶糖假单胞菌，我们随后确认诊断为Lemierre综合征。我们的病例表明，虽然溶糖假单胞菌在口腔中不常见，但这种微生物仍可能导致Lemierre综合征。因此，当在血培养中检测到它时，治疗医生应进行医学检查，同时牢记病人可能患有勒米尔氏综合征。"
+23474186,Porphyromonas asaccharolytica,是,1,女,65以上,正常,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/23474186/," in an immunocompetent diabetic patient with obstructive sleep apnea syndrome,",764.0,immunocompetent,"SPECIES:Porphyromonas asaccharolytica
+ID:23474186
+TITLE:Eikenella corrodens and Porphyromonas asaccharolytica pleural empyema in a diabetic patient with obstructive sleep apnea syndrome on noninvasive ventilation.
+ABSTRACT:Eikenella corrodens is a normal inhabitant of the human oral cavity and gastrointestinal and genitourinary tracts. Pleuropulmonary infections by this microorganism are uncommon. Pulmonary aspiration is a chief predisposing condition. Although the outcome is usually favorable, its distinctive antibiotic sensitivity pattern makes bacterial identification an important feature in dealing with this infection. The authors report a case of pleural empyema caused by co-infection with Eikenella corrodens and Porphyromonas asaccharolytica, in an immunocompetent diabetic patient with obstructive sleep apnea syndrome, followed by a discussion on the role of noninvasive ventilation in the development of this infection.
+物种:Porphyromonas asaccharolytica
+ID: 23474186
+标题:无创通气治疗糖尿病合并阻塞性睡眠呼吸暂停综合征患者的艾氏菌腐蚀和溶糖卟啉单胞菌胸膜脓胸。
+文摘:艾肯氏菌是人类口腔、胃肠道和泌尿生殖系统的正常居民。由这种微生物引起的胸膜肺感染并不常见。肺吸入是一种主要的易感疾病。虽然结果通常是有利的，其独特的抗生素敏感性模式使细菌鉴定是处理这种感染的一个重要特征。作者报告了一例免疫能力良好的糖尿病患者合并感染艾氏菌和溶糖卟啉单胞菌引起的胸膜脓胸，并讨论了无创通气在这种感染发展中的作用。"
+24439468,Bacteroides capillosus,是,1-10,,17-65,受损,哮喘,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/24439468/, of which were smokers and 57% with a drinking habit.,366.0,smokers and 57% with a drinking habit,"SPECIES:Bacteroides capillosus
+ID:24439468
+TITLE:Pleural effusion Due to Streptococcus milleri: Case descriptions.
+ABSTRACT:In this study we analyzed the characteristics of patients with pleural effusion secondary to Streptococcus milleri studied retrospectively between January and March 2013 and found seven patients with a mean age of 60 years, 43% of which were smokers and 57% with a drinking habit. The most common associated factors were alcoholism, previous pneumonia and diabetes. Other bacteria were identified as Enterobacter aerogenes, Bacteroides and Prevotella intermedia capillosus in two patients. The mean duration of antibiotic therapy was 28 days; six patients underwent pleural drainage by chest tube and one patient needed surgery due to poor clinical progress. The mean duration of hospitalization was 30 days with satisfactory outcome in all cases, despite some changes in residual function.
+物种:拟杆菌capillosus
+ID: 24439468
+标题:链球菌致胸腔积液:病例描述。
+摘要:回顾性分析2013年1月至3月收治的米氏链球菌继发胸腔积液患者的特征，发现7例患者平均年龄60岁，其中43%的患者吸烟，57%的患者有饮酒习惯。最常见的相关因素是酗酒、既往肺炎和糖尿病。在2例患者中鉴定出其他细菌为产气肠杆菌、拟杆菌和中间毛细普氏杆菌。平均抗生素治疗时间为28天;6例患者行胸管胸腔引流术，1例因临床进展缓慢而需手术治疗。平均住院时间为30天，所有病例均有满意的结果，尽管残余功能有一些变化。"
+25238000,Actinomyces naeslundii,是,1,女,65以上,,细菌性肺炎,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/25238000/,,,,"SPECIES:Actinomyces naeslundii
+ID:25238000
+TITLE:Actinomyces naeslundii lung infection diagnosed by polymerase chain reaction coupled with electrospray-ionization mass spectrometry.
+ABSTRACT:
+物种:放线菌naeslundii
+ID: 25238000
+聚合酶链反应-电喷雾电离质谱联用诊断naeslundii放线菌肺部感染。
+文摘:"
+25387555,Bulleidia extructa,是,1,女,,正常,肺脓肿,1：同时具备肺组织病理+病原学证据,,https://pubmed.ncbi.nlm.nih.gov/25387555/, We present a case of a Sudanese woman with a cavitary lung lesion and severe gingivitis.,451.0,severe gingivitis,"SPECIES:Bulleidia extructa
+ID:25387555
+TITLE:An African woman with pulmonary cavities: TB or not TB?
+ABSTRACT:Cavitary lung lesions in patients from developing countries are mostly caused by tuberculosis (TB). However, when TB cannot be confirmed, a primary lung abscess caused by anaerobic bacteria from the mouth should be considered, especially in patients with poor dentition. We present a case of a Sudanese woman with a cavitary lung lesion and severe gingivitis. Bulleidia extructa was isolated as a single pathogen from the pulmonary cavity. 
+物种:Bulleidia extructa
+ID: 25387555
+标题:一名非洲妇女有肺腔:是否患有结核病?
+摘要:发展中国家患者空洞性肺病变多由结核(TB)引起。然而，当结核病不能被确诊时，应考虑由口腔厌氧菌引起的原发性肺脓肿，特别是牙列较差的患者。我们提出一个苏丹妇女的病例与空洞肺损害和严重的牙龈炎。从肺腔中分离出一种单一的病原体。"
+25493591,Actinomyces graevenitzii,是,1,男,,正常,肺脓肿,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/25493591/,Actinomyces graevenitzii pulmonary abscess mimicking tuberculosis in a healthy young man.,121.0,healthy,"SPECIES:Actinomyces graevenitzii
+ID:25493591
+TITLE:Actinomyces graevenitzii pulmonary abscess mimicking tuberculosis in a healthy young man.
+ABSTRACT:Pulmonary actinomycosis is a rare disease that is often misdiagnosed as tuberculosis or lung cancer. Actinomyces graevenitzii is a relatively new recognized Actinomyces species isolated from various clinical samples. The authors report a case of pulmonary actinomycosis caused by A graevenitzii. A computed tomography examination revealed an excavated consolidation in the middle right lobe of a previously healthy young man who presented with a long history of moderate cough. Cultures of the bronchoalveolar lavage fluid confirmed the diagnosis of pulmonary abscess caused by A gravenitzii. At the three-month follow-up consultation and, after six weeks of high-dose amoxicillin, the pulmonary lesion had completely disappeared.
+物种:放线菌graevenitzii
+ID: 25493591
+标题:一名健康青年男子模拟肺结核的放线菌肺脓肿。
+摘要:肺放线菌病是一种罕见的疾病，常被误诊为肺结核或肺癌。graevenitzii放线菌是一种较新认识的放线菌，从多种临床标本中分离得到。本文报告一例graevenitzii型肺放线菌病。计算机断层摄影检查发现一个先前健康的年轻人在右肺中部挖出的实变，他表现为长期中度咳嗽史。支气管肺泡灌洗液培养证实了由gravenitzii引起的肺脓肿的诊断。在3个月的随访会诊中，在大剂量阿莫西林治疗6周后，肺部病变完全消失。"
+26015796,Clostridium bifermentans,是,1,男,17-65,,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/26015796/,,,,"SPECIES:Clostridium bifermentans
+ID:26015796
+TITLE:Empyema caused by Clostridium bifermentans: A case report.
+ABSTRACT:A case of pneumonia with associated empyema caused by Clostridium bifermentans is described. C bifermentans is an anaerobic, spore-forming, Gram-positive bacillus. This organism is infrequently reported as a cause of infection in humans, and older publications tended to regard it as nonpathogenic. However, in more recent reports, C bifermentans has been documented as a cause of septic arthritis, osteomyelitis, soft tissue infection, abdominal infections, brain abscess, bacteremia and endocarditis. The present case is the third reported case of empyema caused by C bifermentans, and it serves to further define the spectrum of illness due to this uncommon organism. 
+物种:bifermentans梭状芽胞杆菌
+ID: 26015796
+标题:双发酵梭菌引起脓胸1例报告。
+摘要:本文报告一例由双发酵梭菌引起的肺炎并发脓胸。C双发酵菌是一种厌氧、芽孢形成的革兰氏阳性杆菌。这种微生物很少被报道为人类感染的原因，较早的出版物倾向于认为它是非致病性的。然而，在最近的报道中，双发酵剂已被证明是脓毒性关节炎、骨髓炎、软组织感染、腹部感染、脑脓肿、菌血症和心内膜炎的病因。本病例是报告的第三例由双发酵剂引起的脓胸，并进一步定义由这种罕见的微生物引起的疾病谱系。"
+26432408,Slackia heliotrinireducenscorrig,是,1,男,17-65,,肺脓肿,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/26432408/,,,,"SPECIES:Slackia heliotrinireducenscorrig
+ID:26432408
+TITLE:A large and unusual lung abscess with positive culture to Slackia exigua.
+ABSTRACT:
+物种:Slackia heliotrinireducenscorrig
+ID: 26432408
+标题:大而罕见的甜菜碱培养阳性的肺脓肿。
+文摘:"
+26432408,Slackia exigua,是,1,男,17-65,,肺脓肿,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/26432408/,,,,"SPECIES:Slackia heliotrinireducenscorrig
+ID:26432408
+TITLE:A large and unusual lung abscess with positive culture to Slackia exigua.
+ABSTRACT:
+物种:Slackia heliotrinireducenscorrig
+ID: 26432408
+标题:大而罕见的甜菜碱培养阳性的肺脓肿。
+文摘:"
+27797862,Slackia heliotrinireducenscorrig,是,,女,17-65,正常,,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/27797862/, A previously well woman aged 43 years presented with a history of a sore throat and worsening dyspnoea.,239.0,previously well,"SPECIES:Slackia heliotrinireducenscorrig
+ID:27797862
+TITLE:Coexisting pulmonary haemorrhage and venous thrombosis: a tricky but novel case.
+ABSTRACT:We present a case of Lemierre's disease complicated by pulmonary artery pseudoaneurysm. A previously well woman aged 43 years presented with a history of a sore throat and worsening dyspnoea. She was diagnosed with a severe cavitating bilateral pneumonia complicated by internal jugular vein thrombosis consistent with a diagnosis of Lemierre's disease. She had an episode of massive haemoptysis which was confirmed to be due to a pulmonary artery pseudoaneurysm which required radiologically guided embolisation. She then required surgical decortication for bilateral empyemata. Blood cultures revealed growth of Slackia exigua, an organism yet to be linked with both of these complications concurrently. We believe this to be a novel case of this bacterium causing thrombosis and haemorrhage.
+物种:Slackia heliotrinireducenscorrig
+ID: 27797862
+题目:并存的肺出血和静脉血栓形成:一个棘手但新颖的病例。
+摘要:我们报告一例Lemierre病合并肺动脉假性动脉瘤。一位先前健康的女性，43岁，以喉咙痛和恶化的呼吸困难的历史。她被诊断为严重的双侧空泡性肺炎并伴有颈内静脉血栓形成，符合Lemierre氏病的诊断。她有一次大咯血的发作，这被证实是由于肺动脉假性动脉瘤需要放射引导栓塞。患者随后因双侧脓胸需要手术去皮。血培养揭示了柳杉的生长，一种有机体尚未与这两种并发症同时联系。我们认为这是这种细菌引起血栓和出血的一个新案例。"
+27797862,Slackia exigua,是,,女,17-65,正常,,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/27797862/, A previously well woman aged 43 years presented with a history of a sore throat and worsening dyspnoea.,239.0,previously well,"SPECIES:Slackia heliotrinireducenscorrig
+ID:27797862
+TITLE:Coexisting pulmonary haemorrhage and venous thrombosis: a tricky but novel case.
+ABSTRACT:We present a case of Lemierre's disease complicated by pulmonary artery pseudoaneurysm. A previously well woman aged 43 years presented with a history of a sore throat and worsening dyspnoea. She was diagnosed with a severe cavitating bilateral pneumonia complicated by internal jugular vein thrombosis consistent with a diagnosis of Lemierre's disease. She had an episode of massive haemoptysis which was confirmed to be due to a pulmonary artery pseudoaneurysm which required radiologically guided embolisation. She then required surgical decortication for bilateral empyemata. Blood cultures revealed growth of Slackia exigua, an organism yet to be linked with both of these complications concurrently. We believe this to be a novel case of this bacterium causing thrombosis and haemorrhage.
+物种:Slackia heliotrinireducenscorrig
+ID: 27797862
+题目:并存的肺出血和静脉血栓形成:一个棘手但新颖的病例。
+摘要:我们报告一例Lemierre病合并肺动脉假性动脉瘤。一位先前健康的女性，43岁，以喉咙痛和恶化的呼吸困难的历史。她被诊断为严重的双侧空泡性肺炎并伴有颈内静脉血栓形成，符合Lemierre氏病的诊断。她有一次大咯血的发作，这被证实是由于肺动脉假性动脉瘤需要放射引导栓塞。患者随后因双侧脓胸需要手术去皮。血培养揭示了柳杉的生长，一种有机体尚未与这两种并发症同时联系。我们认为这是这种细菌引起血栓和出血的一个新案例。"
+28169034,Actinomyces graevenitzii,是,,,,,其他,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/28169034/,,,,"SPECIES:Actinomyces graevenitzii
+ID:28169034
+TITLE:Diagnosis of Actinomyces graevenitzii Lung Infection using Linear EBUS.
+ABSTRACT:
+物种:放线菌graevenitzii
+ID: 28169034
+题目:线性EBUS诊断graevenitzii放线菌肺部感染。
+文摘:"
+28348769,Clostridium baratii,是,1,男,65以上,正常,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/28348769/," a rare case of pneumonia associated with an Alzheimer patient in Rio de Janeiro,",111.0,Alzheimer patient,"SPECIES:Clostridium baratii
+ID:28348769
+TITLE:Clostridium baratii: a rare case of pneumonia associated with an Alzheimer patient in Rio de Janeiro, Brazil.
+ABSTRACT:INTRODUCTION: Clostridium baratii is rarely associated with human diseases. Infection is usuallcaused by ingestion of contaminated food, and infant botulism is the most common clinical presentation. CASE REPORT: Here we report a case of pneumonia by a non-toxigenic strain of C. baratii in an Alzheimer 70-year-old male with sepsis in Rio de Janeiro, Brazil. The micro-organism was identified by phenotypical tests, mass spectrometry (MALDI-TOF), DNA amplification (PCR) and sequencing of the 16S rRNA gene. Testing for the presence of botulinum F toxin was made using multiplex PCR. Bioassay for a large number of colonies was performed in mice to evaluate the production of any lethal toxin, but the results were negative. 
+CONCLUSION: To our knowledge, there are no cases of C. baratii infection reported in Brazil and we highlight the importance of anaerobic lab tests in the standard routine of diagnosis.
+物种:baratii梭状芽胞杆菌
+ID: 28348769
+标题:巴氏梭菌:一个罕见的肺炎与阿尔茨海默症患者在巴西的里约热内卢。
+摘要:简介:巴尔氏梭菌很少与人类疾病相关。感染通常由摄入受污染的食物引起，婴儿肉毒中毒是最常见的临床表现。病例报告:在这里我们报告一个由非产毒菌株的C. baratii肺炎的阿尔茨海默氏症70岁男性败血症，在巴西里约热内卢。通过表型试验、质谱(MALDI-TOF)、DNA扩增(PCR)和16S rRNA基因测序对该微生物进行鉴定。用多重PCR法检测肉毒杆菌毒素的存在。在小鼠体内对大量菌落进行生物测定，以评估任何致命毒素的产生，但结果是阴性的。
+结论:据我们所知，巴西没有巴尔氏梭菌感染病例报告，我们强调厌氧实验室检查在常规诊断中的重要性。"
+28668708,Slackia heliotrinireducenscorrig,是,1,女,17-65,正常,细菌性肺炎,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,治愈,https://pubmed.ncbi.nlm.nih.gov/28668708/,old lady with good past health presented with fulminant community-,412.0,good,"SPECIES:Slackia heliotrinireducenscorrig
+ID:28668708
+TITLE:A case of severe empyema with acute respiratory distress syndrome caused by Slackia exigua requiring veno-venous extracorporeal membrane oxygenation.
+ABSTRACT:Slackia exigua (S. exigua) is an obligatory anaerobic coccobacillus under the family of Coriobacteriaceae. It is a rare cause of pyogenic extraoral infections. We report a 58-year-old lady with good past health presented with fulminant community-acquired pneumonia causing acute respiratory distress syndrome caused by S. exigua requiring veno-venous extra-corporeal membrane oxygenation (VV-ECMO). Bacterial identification can be challenging and often require 16 S rRNA and MALDI-TOF MS. The patient was treated with amoxicillin-clavulanic acid according to sensitivity and made significant recovery.
+物种:Slackia heliotrinireducenscorrig
+ID: 28668708
+标题:因夏草所致严重脓胸合并急性呼吸窘迫综合征需要静脉-静脉体外膜氧合1例。
+摘要/ ABSTRACT摘要:exigua (S. exigua)是Coriobacteriaceae家族的一种专性厌氧球菌。它是一种罕见的化脓性口外感染的原因。我们报告一位58岁女性，既往健康状况良好，因exigua引起暴发性社区获得性肺炎引起急性呼吸窘迫综合征，需要静脉-静脉体外膜氧合(VV-ECMO)。细菌鉴定具有挑战性，通常需要16s rRNA和MALDI-TOF ms。根据敏感性，患者接受阿莫西林-克拉维酸治疗，并获得显著恢复。"
+28668708,Slackia exigua,是,1,女,17-65,正常,细菌性肺炎,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,治愈,https://pubmed.ncbi.nlm.nih.gov/28668708/,old lady with good past health presented with fulminant community-,412.0,good,"SPECIES:Slackia heliotrinireducenscorrig
+ID:28668708
+TITLE:A case of severe empyema with acute respiratory distress syndrome caused by Slackia exigua requiring veno-venous extracorporeal membrane oxygenation.
+ABSTRACT:Slackia exigua (S. exigua) is an obligatory anaerobic coccobacillus under the family of Coriobacteriaceae. It is a rare cause of pyogenic extraoral infections. We report a 58-year-old lady with good past health presented with fulminant community-acquired pneumonia causing acute respiratory distress syndrome caused by S. exigua requiring veno-venous extra-corporeal membrane oxygenation (VV-ECMO). Bacterial identification can be challenging and often require 16 S rRNA and MALDI-TOF MS. The patient was treated with amoxicillin-clavulanic acid according to sensitivity and made significant recovery.
+物种:Slackia heliotrinireducenscorrig
+ID: 28668708
+标题:因夏草所致严重脓胸合并急性呼吸窘迫综合征需要静脉-静脉体外膜氧合1例。
+摘要/ ABSTRACT摘要:exigua (S. exigua)是Coriobacteriaceae家族的一种专性厌氧球菌。它是一种罕见的化脓性口外感染的原因。我们报告一位58岁女性，既往健康状况良好，因exigua引起暴发性社区获得性肺炎引起急性呼吸窘迫综合征，需要静脉-静脉体外膜氧合(VV-ECMO)。细菌鉴定具有挑战性，通常需要16s rRNA和MALDI-TOF ms。根据敏感性，患者接受阿莫西林-克拉维酸治疗，并获得显著恢复。"
+28856090,Eubacterium brachy,是,1,,,,肺脓肿,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/28856090/,,,,"SPECIES:Eubacterium brachy
+ID:28856090
+TITLE:A case of relapsed lung abscess caused by Eubacterium brachy infection following an initial diagnosis of pulmonary actinomycosis.
+ABSTRACT:We report a rare case of lung abscess due to Eubacterium brachy. In this case, an analysis of the aspirate from frank pus revealed Gram-positive coccobacilli. We initially strongly suspected lung abscess associated with actinomycosis because of the chronic/recurrent clinical course and radio-pathological findings such as a granuloma lesion. Although a biochemical analysis revealed Actinomyces sp., 16S rRNA gene sequencing and a phylogenetic tree analysis of the isolated strain confirmed the presence of E. brachy. Some cases previously diagnosed as actinomycosis might be correctly diagnosed as E. brachy infection. Clinicians should be aware that additional studies using 16S rRNA gene sequencing are needed to clarify whether pulmonary infection associated with E. brachy is a similar entity to that of chronic granulomatous infection disease in pulmonary actinomycosis.
+物种:真细菌短
+ID: 28856090
+标题:在最初诊断为肺部放线菌病后，由真杆菌感染引起的复发性肺脓肿的病例。
+摘要:我们报告一个罕见的肺脓肿由真杆菌引起的病例。本例中，弗兰克脓液抽吸物分析显示革兰氏阳性球菌。我们最初强烈怀疑肺脓肿伴放线菌病，因为其慢性/复发的临床病程和放射病理表现如肉芽肿病变。生物化学分析显示该菌株为放线菌属，16S rRNA基因测序和系统进化树分析证实该菌株存在brachy大肠杆菌。一些先前诊断为放线菌病的病例可以正确诊断为E. brachy感染。临床医生应该意识到，需要更多的研究使用16S rRNA基因测序，以澄清与E. brachy相关的肺部感染是否与肺部放线菌慢性肉芽肿感染疾病相似。"
+29709959,Actinomyces graevenitzii,是,1,男,65以上,,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/29709959/,,,,"SPECIES:Actinomyces graevenitzii
+ID:29709959
+TITLE:Pulmonary Actinomyces graevenitzii Infection Diagnosed by Bronchoscopy using Endobronchial Ultrasonography with a Guide Sheath.
+ABSTRACT:A 75-year-old man visited our hospital complaining of a low-grade fever, dry cough, and chest abnormal shadow. Chest computed tomography revealed a nodule with a cavity in the right upper lobe. Endobronchial ultrasonography (EBUS) of the lesion suggested that the lesion was benign. Actinomyces graevenitzii was cultured from the specimen obtained by bronchoscopy using endobronchial ultrasonography with a guide sheath technique and was identified by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry and 16S rRNA sequencing. The patient was treated with intravenous ampicillin; subsequently, his condition improved. We believe that careful observation of EBUS findings may be useful for the differential diagnosis.
+物种:放线菌graevenitzii
+ID: 29709959
+标题:经支气管镜引导鞘内超声检查诊断肺部graevenitzii放线菌感染。
+摘要:一名75岁男性就诊于我院，主诉为低热、干咳、胸影异常。胸部电脑断层扫描显示在右上肺叶有一个空洞的结节。支气管内超音波显示为良性病变。采用支气管镜下超声引导鞘技术对小鼠标本进行培养，利用基质辅助激光解吸/电离飞行时间质谱和16S rRNA测序对小鼠进行鉴定。静脉注射氨苄西林;随后，他的病情得到了改善。我们相信仔细观察EBUS的表现可能对鉴别诊断有帮助。"
+30726332,Clostridium septicum,是,1,男,17-65,受损,肺部肿瘤,3：血及无菌体液（如脓胸液）,死亡,https://pubmed.ncbi.nlm.nih.gov/30726332/,Empyema caused by infection with Clostridium septicum in a patient with lung cancer.,119.0,lung cancer,"SPECIES:Clostridium septicum
+ID:30726332
+TITLE:Empyema caused by infection with Clostridium septicum in a patient with lung cancer.
+ABSTRACT:
+物种:坏疽抗毒素梭状芽胞杆菌
+ID: 30726332
+标题:肺癌患者因感染败血症梭菌引起的脓胸。
+文摘:"
+30971569,Actinomyces naeslundii,是,1,,,正常,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,,https://pubmed.ncbi.nlm.nih.gov/30971569/, naeslundii from the bronchoalveolar lavage sample from an immunocompetent patient who presented with chronic nonresolving pneumonia of 6 months duration.,811.0,immunocompetent patient,"SPECIES:Actinomyces naeslundii
+ID:30971569
+TITLE:Actinomyces naeslundii causing pulmonary endobronchial Actinomycosis - A case report.
+ABSTRACT:Actinomyces naeslundii is a commensal flora of the oral cavity and is generally considered as an avirulent saprophytic bacterium in immunocompetent patients. It can become an opportunistic anaerobic pathogen in oral cavity in patients with poor oral hygiene or tooth extraction and can cause periodontal disease. Pulmonary Actinomycosis is a rare manifestation and may be suspected in middle-aged male patients with cough and hemoptysis showing radiological findings of a peripheral mass or chronic consolidation in whom repeated aerobic cultures have yielded negative results. Here, we report isolation of A. naeslundii from the bronchoalveolar lavage sample from an immunocompetent patient who presented with chronic nonresolving pneumonia of 6 months duration.
+物种:放线菌naeslundii
+ID: 30971569
+标题:naeslundii放线菌引起肺部支气管内放线菌病1例报告。
+摘要:naeslundii放线菌是口腔的一种共生菌群，通常被认为是具有免疫能力的患者的一种无毒腐生菌。在口腔卫生不良或拔牙患者中，它可成为口腔内的一种机会性厌氧病原体，可引起牙周病。肺部放线菌病是一种罕见的表现，在中年男性患者咳嗽和咳血时，放射学表现为周围肿块或慢性实变，反复有氧培养阴性结果时，可怀疑为肺部放线菌病。在这里，我们报道了从一个有免疫能力的病人的支气管肺泡灌洗液样本中分离出奈斯伦地鼠，该病人表现为持续6个月的慢性非缓解性肺炎。"
+31011426,Filifactor alocis,是,1,男,65以上,,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/31011426/,,,,"SPECIES:Filifactor alocis
+ID:31011426
+TITLE:Mixed anaerobic thoracic empyema: the first report of Filifactor alocis causing extra-oral disease.
+ABSTRACT:We report on a case of bilateral lung consolidation and thoracic empyema caused by the periodontal pathogens Filifactor alocis and Campylobacter rectus in a patient with chronic dysphagia. This is the first report of Filifactor alocis causing infection at an extra-oral site.
+物种:Filifactor alocis
+ID: 31011426
+题目:混合型厌氧胸脓胸:首次报道Filifactor alocis引起口外疾病。
+摘要:我们报告一位慢性吞咽困难的病人，由于牙周病原体纤维因子脱位和直弯杆菌引起双侧肺实变和胸胸脓胸。这是第一个报道Filifactor alocis引起感染口外部位。"
+31310211,Sneathia amnii,是,1,群体,1岁以下,正常,其他,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,死亡,https://pubmed.ncbi.nlm.nih.gov/31310211/,"Sneathia amnii and Maternal Chorioamnionitis and Stillbirth,",90.0,Stillbirth,"SPECIES:Sneathia amnii
+ID:31310211
+TITLE:Sneathia amnii and Maternal Chorioamnionitis and Stillbirth, Mozambique.
+ABSTRACT:We report a case of Sneathia amnii as the causative agent of maternal chorioamnionitis and congenital pneumonia resulting in a late fetal death in Mozambique, with strong supportive postmortem molecular and histopathologic confirmation. This rare, fastidious gram-negative coccobacillus has been reported to infrequently cause abortions, stillbirths, and neonatal infections.
+物种:Sneathia amnii
+ID: 31310211
+标题:Sneathia amnii和母亲绒毛膜羊膜炎和死产，莫桑比克。
+摘要:我们报道了一例羊膜Sneathia作为母亲羊膜绒毛膜炎和先天性肺炎的病原体，导致晚期胎儿死亡在莫桑比克，强有力的支持后分子和组织病理学证实。这种罕见、挑剔的革兰氏阴性球菌曾被报道很少导致流产、死产和新生儿感染。"
+31310211,Leptotrichia amnionii,是,1,群体,1岁以下,正常,其他,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,死亡,https://pubmed.ncbi.nlm.nih.gov/31310211/,"Sneathia amnii and Maternal Chorioamnionitis and Stillbirth,",90.0,Stillbirth,"SPECIES:Sneathia amnii
+ID:31310211
+TITLE:Sneathia amnii and Maternal Chorioamnionitis and Stillbirth, Mozambique.
+ABSTRACT:We report a case of Sneathia amnii as the causative agent of maternal chorioamnionitis and congenital pneumonia resulting in a late fetal death in Mozambique, with strong supportive postmortem molecular and histopathologic confirmation. This rare, fastidious gram-negative coccobacillus has been reported to infrequently cause abortions, stillbirths, and neonatal infections.
+物种:Sneathia amnii
+ID: 31310211
+标题:Sneathia amnii和母亲绒毛膜羊膜炎和死产，莫桑比克。
+摘要:我们报道了一例羊膜Sneathia作为母亲羊膜绒毛膜炎和先天性肺炎的病原体，导致晚期胎儿死亡在莫桑比克，强有力的支持后分子和组织病理学证实。这种罕见、挑剔的革兰氏阴性球菌曾被报道很少导致流产、死产和新生儿感染。"
+31576208,Actinomyces odontolyticus,是,1,男,17-65,正常,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/31576208/," frequently associated with immunocompromised states,",265.0,immunocompromised,"SPECIES:Veillonella atypica
+ID:31576208
+TITLE:A pulmonary infection by Actinomyces odontolyticus and Veillonella atypica in an immunocompetent patient with dental caries.
+ABSTRACT:Actinomycosis is a rare, chronic granulomatous infection, frequently associated with immunocompromised states, but it can also affect healthy people. Here, we report a case of a pulmonary infection by Actinomyces odontolitycus and Veillonella atypica due to a dental caries in an immunocompetent 65-year-old man patient.
+物种:韦永氏球菌属atypica
+ID: 31576208
+题目:在有免疫能力的龋齿患者中由溶牙放线菌和非典型Veillonella引起的肺部感染。
+摘要:放线菌病是一种罕见的慢性肉芽肿感染，常与免疫功能低下有关，但也可影响健康人群。在此，我们报告一个65岁有免疫能力的男性病人，因龋齿引起肺部放线菌和非典型Veillonella感染。"
+31576208,Veillonella atypica,是,1,男,17-65,正常,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/31576208/," frequently associated with immunocompromised states,",265.0,immunocompromised,"SPECIES:Veillonella atypica
+ID:31576208
+TITLE:A pulmonary infection by Actinomyces odontolyticus and Veillonella atypica in an immunocompetent patient with dental caries.
+ABSTRACT:Actinomycosis is a rare, chronic granulomatous infection, frequently associated with immunocompromised states, but it can also affect healthy people. Here, we report a case of a pulmonary infection by Actinomyces odontolitycus and Veillonella atypica due to a dental caries in an immunocompetent 65-year-old man patient.
+物种:韦永氏球菌属atypica
+ID: 31576208
+题目:在有免疫能力的龋齿患者中由溶牙放线菌和非典型Veillonella引起的肺部感染。
+摘要:放线菌病是一种罕见的慢性肉芽肿感染，常与免疫功能低下有关，但也可影响健康人群。在此，我们报告一个65岁有免疫能力的男性病人，因龋齿引起肺部放线菌和非典型Veillonella感染。"
+33335786,Clostridium sporogenes,是,1,男,65以上,正常,其他,3：血及无菌体液（如脓胸液）,死亡,https://pubmed.ncbi.nlm.nih.gov/33335786/,Clostridium sporogenes bacteremia in immunocompetent patients is rare with very few reported cases in the literature.,224.0,immunocompetent,"SPECIES:Clostridium sporogenes
+ID:33335786
+TITLE:Cognitive Biases in the Era of COVID-19 : A Case of Clostridium sporogenes Bacteremia in a Patient with Small Bowel Obstruction.
+ABSTRACT:Clostridium sporogenes bacteremia in immunocompetent patients is rare with very few reported cases in the literature. We present a case of Clostridium sporogenes bacteremia in an 81-year-old immunocompetent man with small bowel obstruction and hypoxemia during the COVID-19 pandemic. Routine monitoring of prognostic inflammatory markers for COVID-19 created a unique challenge in the management of our patient who developed sepsis with respiratory symptoms. Upon review, bacteremia from Clostridium sporogenes was associated with high mortality rates and could produce similar elevations in the inflammatory markers observed in COVID-19 pneumonia. Further, we reviewed the cognitive biases encountered when monitoring these inflammatory markers during the management of our patient with Clostridium sporogenes bacteremia, who was initially thought to have COVID-19 disease. While our patient ultimately tested negative for COVID-19, early administration of empiric antimicrobial therapy without source control failed to prevent clinical decompensation.
+物种:sporogenes梭状芽胞杆菌
+ID: 33335786
+标题:COVID-19时代的认知偏差:一例小肠阻塞患者的芽孢梭菌血症。
+摘要:在具有免疫能力的患者中发生芽孢梭菌血症是罕见的，文献报道的病例很少。我们提出一个81岁有免疫能力的男子在COVID-19大流行期间发生芽孢梭菌菌血症的病例，并发小肠阻塞和低氧血症。常规监测COVID-19的预后炎症标志物对处理出现脓毒症并伴有呼吸道症状的患者构成了独特的挑战。经审查，产孢梭菌菌血症与高死亡率相关，并可导致COVID-19肺炎中观察到的炎症标志物类似升高。此外，我们回顾了在治疗原认为患有COVID-19疾病的芽孢梭菌菌血症患者期间监测这些炎症标志物时遇到的认知偏差。虽然我们的患者最终检测为COVID-19阴性，但没有源头控制的早期经验性抗菌素治疗未能防止临床失代偿。"

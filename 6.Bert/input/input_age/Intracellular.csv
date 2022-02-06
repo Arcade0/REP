@@ -1,0 +1,113 @@
+ID,物种名称,是否是致病菌,样本量,患者性别,年龄,免疫状态,肺部基础疾病,证据等级,预后,id,sup_evi,old_start,answer,full
+6772542,Rickettsia rickettsii,是,1-10,,,,,1：同时具备肺组织病理+病原学证据,,https://pubmed.ncbi.nlm.nih.gov/6772542/,,,,"SPECIES:Rickettsia rickettsii
+ID:6772542
+TITLE:Rickettsial infection of the pulmonary microcirculation: the basis for interstitial pneumonitis in Rocky Mountain spotted fever.
+ABSTRACT:Pulmonary tissue from 10 patients with fatal Rocky Mountain spotted fever was examined by brightfield microscopy for histopathologic lesions and by immunofluorescence for Rickettsia rickettsii. The distribution of rickettsiae and the vasculitis of the pulmonary microcirculation coincided. The lungs demonstrated the consequent interstitial pneumonia--alveolar septal congestion and interstitial edema; alveolar edema, fibrin, macrophages, and hemorrhage; and interlobular septal edema. The effects of the rickettsial damage to the pulmonary microcirculation are an important component of the pathophysiology of severe Rocky Mountain spotted fever. The distribution of rickettsial organisms within the lung indicates that person to person aerosol transmission is extremely unlikely.
+物种:立克次氏体rickettsii
+ID: 6772542
+题目:肺部微循环的立克次体感染:落基山斑疹热间质性肺炎的基础。
+摘要:对10例落基山斑疹热致死性患者的肺组织进行组织病理学检查和立克次体免疫荧光检测。立克次体的分布与肺微循环血管炎的分布相吻合。肺部出现间质性肺炎——肺泡间隔充血和间质性水肿;肺泡水肿、纤维蛋白、巨噬细胞和出血;小叶间隔水肿。立克次体损伤对肺微循环的影响是严重落基山斑疹热病理生理的重要组成部分。立克次体在肺内的分布表明，人与人之间的气溶胶传播是极不可能的。"
+11757511,Ehrlichia ewingii,是,1,男,65以上,,,7：免疫学证据,,https://pubmed.ncbi.nlm.nih.gov/11757511/,,,,"SPECIES:Ehrlichia species
+ID:11757511
+TITLE:Case records of the Massachusetts General Hospital. Weekly clinicopathological exercises. Case 37-2001. A 76-year-old man with fever, dyspnea, pulmonary infiltrates, pleural effusions, and confusion.
+ABSTRACT:
+物种:埃立克体属物种
+ID: 11757511
+标题:马萨诸塞州总医院的病例记录。每周的临床病理的练习。37 - 2001。一位76岁男性，有发热、呼吸困难、肺浸润、胸腔积液及意识模糊。
+文摘:"
+12373493,Rickettsia japonica,是,1,男,65以上,,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/12373493/,"  ABSTRACT:A 72-year-old man was admitted to the emergency ward in our hospital on July 20,",154.0,72-year-old,"SPECIES:Rickettsia japonica
+ID:12373493
+TITLE:Fulminant Japanese spotted fever definitively diagnosed by the polymerase chain reaction method.
+ABSTRACT:A 72-year-old man was admitted to the emergency ward in our hospital on July 20, 2001, because of consciousness disturbance, fever, generalized skin eruption, and severe general weakness beginning 7 days previously. Physical examination on admission revealed marked systemic cyanosis, erythema, and purpura. Laboratory findings indicated disseminated intravascular coagulation (DIC) and multiorgan failure (platelet count, 0.9 x 10(4)/micro l; fibrin degradation product, 110 micro g/ml; C-reactive protein, 22.6 mg/dl). Soluble interleukin 2-receptor (sIL-2R) was markedly increased to 14 710 U/ml. Blood gas analysis demonstrated severe metabolic acidosis. He was diagnosed with multiorgan failure due to DIC. Administration of heparin and sodium bicarbonate was started immediately, but respiratory failure was exacerbated and systemic spasm caused by encephalitis was noted. Although he was supported by an artificial ventilator, deterioration of metabolic acidosis occurred, and the blood pressure decreased to less than 60 mm Hg. He died 5.5 h after admission. The serological test showed no positive antibody titers against Orientia tsutsugamushi, Rickettsia japonica, or Rickettsia typhi. However, a specific DNA band derived from R. japonica was detected by the polymerase chain reaction (PCR) method using a primer from a blood clot. Therefore, he was definitively diagnosed as having Japanese spotted fever. The PCR method may be markedly useful for establishing a definitive diagnosis of Japanese spotted fever during the critical stage.
+物种:立克次氏体粳稻
+ID: 12373493
+聚合酶链反应法对日本暴发性斑疹热的确诊。
+摘要:1例72岁男性患者于2001年7月20日因意识障碍、发热、全身皮疹、全身严重虚弱7天于我院急诊科就诊。入院时查体发现明显全身紫绀、红斑及紫癜。实验室检查提示弥散性血管内凝血(DIC)和多脏器衰竭(血小板计数，0.9 × 10(4)/微l;纤维蛋白降解产物，110微米g/ml;c反应蛋白，22.6 mg/dl)。可溶性白细胞介素2受体(sIL-2R)显著升高至14 710 U/ml。血气分析显示严重代谢性酸中毒。他被诊断为DIC引起的多器官衰竭。立即给予肝素和碳酸氢钠，但呼吸衰竭加重，并注意到由脑炎引起的全身痉挛。患者虽使用人工呼吸机，但代谢性酸中毒恶化，血压低于60mmhg，入院后5.5 h死亡。血清学检测对恙虫病东方体、日本立克次体、伤寒立克次体抗体滴度均无阳性反应。利用血凝块引物聚合酶链反应(PCR)方法检测到日本血吸虫特异性DNA条带。因此，他被确诊为日本斑疹热。PCR方法对建立日本斑疹热的关键阶段的明确诊断有显著的作用。"
+23903543,Rickettsia prowazekii,是,＞100,,,正常,其他,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/23903543/,,,,"SPECIES:Rickettsia prowazekii
+ID:23903543
+TITLE:Reverse transcription-PCR-electrospray ionization mass spectrometry for rapid detection of biothreat and common respiratory pathogens.
+ABSTRACT:Electrospray ionization mass spectrometry (ESI-MS) analysis of reverse transcription (RT)-PCR amplicons from human respiratory samples allows for broad pathogen identification approximately 8 h after collection. We investigated the performance characteristics of a high-throughput RT-PCR-coupled ESI-MS assay for distinguishing biothreat (BT) agents from common bacterial, fungal, and viral respiratory pathogens in bronchoalveolar lavage (BAL) fluid specimens from subjects with suspected respiratory infections. In a retrospective case series, 202 BAL fluid specimens were collected at the Johns Hopkins Hospital between August 2010 and February 2011 from patients with suspected acute respiratory infections. Samples were processed using standard bacterial, viral, and fungal testing in the clinical microbiology laboratory as part of routine care and then were blindly spiked with either water or nucleic acids from BT organisms (Bacillus anthracis, Yersinia pestis, Francisella tularensis, Brucella spp., Burkholderia spp., and Rickettsia prowazekii) and tested by RT-PCR-ESI-MS. The sensitivities and specificities of RT-PCR-ESI-MS versus standard clinical methods were as follows: for mock BT DNA, 98.5% sensitivity (95% confidence interval [CI], 94.2 to 99.7%) and 100% specificity (95% CI, 93.1 to 100.0%); for bacterial pathogens, 81.8% sensitivity (95% CI, 74.3 to 87.6%) and 73.6% specificity (95% CI, 64.2 to 81.4%); for viral pathogens, 93.3% sensitivity (95% CI, 66.0 to 99.7%) and 97.3% specificity (95% CI, 89.7 to 99.5%); for fungal pathogens, 42.6% sensitivity (95% CI, 29.5 to 56.7%) and 97.8% specificity (95% CI, 91.8 to 99.6%). Our data suggest that RT-PCR-ESI-MS is a useful adjunct to standard culture protocols for rapid detection of both BT and common respiratory pathogens; further study is required for assay validation, especially for fungal detection, and potential implementation. 
+物种:立克次氏体prowazekii
+ID: 23903543
+题目:逆转录- pcr -电喷雾质谱快速检测生物威胁和常见呼吸道病原体。
+摘要/ ABSTRACT摘要:电喷雾电离质谱(ESI-MS)分析人类呼吸道标本的逆转录(RT)-PCR扩增产物，可在采集后约8小时进行广泛的病原鉴定。我们研究了一种高通量rt - pcr耦合ESI-MS检测方法的性能特征，用于区分疑似呼吸道感染的受试者支气管肺泡灌洗液标本中的生物威胁(BT)制剂和常见的细菌、真菌和病毒呼吸道病原体。在一项回顾性病例系列中，2010年8月至2011年2月在约翰霍普金斯医院从疑似急性呼吸道感染的患者中收集了202份BAL液体标本。样本处理使用标准的细菌、病毒和真菌检测在临床微生物实验室的日常保健,然后是盲目攀升与水或核酸从转基因生物体(炭疽杆菌、鼠疫杆菌、土拉杆菌内,布鲁氏菌spp。洋葱。,和立克次氏体prowazekii)由RT-PCR-ESI-MS和测试。RT-PCR-ESI-MS与标准临床方法的敏感性和特异性如下:模拟BT DNA的敏感性为98.5%(95%置信区间[CI]， 94.2 ~ 99.7%)，特异性为100% (95% CI, 93.1 ~ 100.0%);对于细菌病原体，敏感性为81.8% (95% CI, 74.3 ~ 87.6%)，特异性为73.6% (95% CI, 64.2 ~ 81.4%);对于病毒性病原体，敏感性为93.3% (95% CI, 66.0 ~ 99.7%)，特异性为97.3% (95% CI, 89.7 ~ 99.5%);对于真菌病原体，敏感性为42.6% (95% CI, 29.5 ~ 56.7%)，特异性为97.8% (95% CI, 91.8 ~ 99.6%)。我们的数据表明，RT-PCR-ESI-MS是一个有用的辅助标准培养方案，快速检测BT和常见呼吸道病原体;进一步的研究需要验证，特别是真菌检测和潜在的实施。"
+27446530,Chlamydia abortus,是,1,男,17-65,正常,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,,https://pubmed.ncbi.nlm.nih.gov/27446530/," A human case of atypical pneumonia linked to Chlamydia abortus is reported. A 47-year-old male,",738.0,A 47-year-old male,"SPECIES:Chlamydia abortus
+ID:27446530
+TITLE:Isolation of Chlamydia abortus from a laboratory worker diagnosed with atypical pneumonia.
+ABSTRACT:
+BACKGROUND: Identifying the aetiological agent of atypical pneumonia in human can sometimes be a tedious process, especially in cases where Mycoplasma pneumoniae, Legionella species and Chlamydia pneumoniae are ruled out. In such cases, a correct anamnesis of the patient is basic to clarify which pathogens might have produced the infection. For this reason, health professionals including veterinarians and laboratory personnel working with zoonotic pathogens should keep their doctors informed. CASE PRESENTATION: A human case of atypical pneumonia linked to Chlamydia abortus is reported. A 47-year-old male, a veterinarian researcher into chlamydiae, developed respiratory symptoms, breathing problems and high fever. Serological analyses ruled out the involvement of several respiratory pathogens, such as M. pneumoniae, Legionella pneumophila, Rickettsia conorii and C. pneumoniae, and Chlamydia abortus was identified as the possible aetiological agent of the infection. The isolation of C. abortus from the patient's sputum and subsequent molecular analysis confirmed the presence of this microorganism. 
+CONCLUSION: As far as we know, although C. abortus has not been previously described as capable of causing pneumonia in humans, this is the first reported case of atypical pneumonia in which C. abortus is thought to have played an aetiological role.
+物种:流产衣原体
+ID: 27446530
+从诊断为非典型肺炎的实验室工作人员身上分离出流产衣原体。
+文摘:
+背景:确定人类非典型肺炎的病因有时是一个繁琐的过程，特别是在肺炎支原体、军团菌和肺炎衣原体被排除在外的情况下。在这种情况下，对病人的正确记忆是弄清哪些病原体可能引起感染的基础。因此，卫生专业人员，包括兽医和实验室人员，与人畜共患病原体打交道时，应随时告知他们的医生。病例报告:一个与流产衣原体有关的非典型肺炎的人类病例。一名47岁的男性是衣原体兽医研究员，他出现了呼吸道症状、呼吸问题和高烧。血清学分析排除了几种呼吸道病原体的参与，如肺炎支原体、嗜肺军团菌、conorii立克次体和肺炎梭菌，并确定流产衣原体可能是感染的病原。从病人的痰中分离出流产梭菌和随后的分子分析证实了这种微生物的存在。
+结论:据我们所知，虽然以前没有报道过流产梭菌能引起人类肺炎，但这是第一例报道的流产梭菌在非典型肺炎中起致病作用的病例。"
+27758794,Ehrlichia chaffeensis,是,1,女,65以上,正常,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/27758794/,A previously healthy 66-year-old woman living in the Mid-,162.0,66-year-old,"SPECIES:Ehrlichia species
+ID:27758794
+TITLE:Severe human monocytic ehrlichiosis presenting with altered mental status and seizures.
+ABSTRACT:A previously healthy 66-year-old woman living in the Mid-Atlantic USA presented to the hospital with lethargy, ataxia and slurred speech. 2 weeks prior she had removed a tick from her right groin. She reported malaise, fevers, diarrhoea, cough and a rash. Physical examination revealed a maculopapular rash on her chest, and lung auscultation revealed bi-basilar rales. Laboratory tests were remarkable for hyponatraemia, leucopenia and thrombocytopenia. Chest X-ray demonstrated bilateral pleural effusions with pulmonary oedema. She was treated with ceftriaxone and azithromycin for possible community-acquired pneumonia but declining mental status necessitated intensive care unit transfer. Vancomycin and doxycycline were added. Her course was complicated by seizures requiring antiepileptic therapy. Peripheral blood smear demonstrated morulae in monocytes. Serum Ehrlichia chaffeensis DNA was positive confirming the diagnosis of human monocytic ehrlichiosis. She recovered without residual neurological deficits after 10 days of doxycycline therapy.
+物种:埃立克体属物种
+ID: 27758794
+标题:严重的人类单核细胞埃立克丝病表现为精神状态改变和癫痫发作。
+摘要:一名生活在美国大西洋中部的66岁健康女性因嗜睡、共济失调和口齿不清就诊。两周前，她从她的右腹股沟移除了一个虱子。她说自己全身不适、发烧、腹泻、咳嗽和皮疹。体格检查发现胸部有斑丘疹，肺部听诊发现双基底罗音。实验室检查对低钠血症、白细胞减少和血小板减少有显著影响。胸部x光片显示双侧胸膜积液伴肺水肿。她接受了头孢曲松和阿奇霉素治疗，以治疗可能的社区获得性肺炎，但精神状况下降，需要转到重症监护室。加入万古霉素和强力霉素。她的病程因癫痫发作而复杂化，需要抗癫痫治疗。外周血涂片示单核细胞桑葚胚。血清查菲埃利希菌DNA阳性，证实为人类单核细胞埃利希菌病。经过10天的强力霉素治疗后，她恢复了，没有残留的神经功能缺损。"
+28500797,Rickettsia prowazekii,是,10-100,群体,17-65,,,7：免疫学证据,死亡,https://pubmed.ncbi.nlm.nih.gov/28500797/, The median patient age was 62 years (,753.0,62,"SPECIES:Rickettsia prowazekii
+ID:28500797
+TITLE:Fatal Flea-Borne Typhus in Texas: A Retrospective Case Series, 1985-2015.
+ABSTRACT:AbstractFlea-borne (murine) typhus is a global rickettsiosis caused by Rickettsia typhi. Although flea-borne typhus is no longer nationally notifiable, cases are reported for surveillance purposes in a few U.S. states. The infection is typically self-limiting, but may be severe or life-threatening in some patients. We performed a retrospective review of confirmed or probable cases of fatal flea-borne typhus reported to the Texas Department of State Health Services during 1985-2015. When available, medical charts were also examined. Eleven cases of fatal flea-borne typhus were identified. The median patient age was 62 years (range, 36-84 years) and 8 (73%) were male. Patients presented most commonly with fever (100%), nausea and vomiting (55%), and rash (55%). Respiratory (55%) and neurologic (45%) manifestations were also identified frequently. Laboratory abnormalities included thrombocytopenia (82%) and elevated hepatic transaminases (63%). Flea or animal contact before illness onset was frequently reported (55%). The median time from hospitalization to administration of a tetracycline-class drug was 4 days (range, 0-5 days). The median time from symptom onset to death was 14 days (range, 1-34 days). Flea-borne typhus can be a life-threatening disease if not treated in a timely manner with appropriate tetracycline-class antibiotics. Flea-borne typhus should be considered in febrile patients with animal or flea exposure and respiratory or neurologic symptoms of unknown etiology.
+物种:立克次氏体prowazekii
+ID: 28500797
+标题:得克萨斯州致命蚤传斑疹伤寒:1985-2015年回顾性病例系列。
+摘要蚤传(鼠传)斑疹伤寒是由立克次体伤寒引起的全球性立克次体病。虽然跳蚤传播的斑疹伤寒不再是全国范围内必须通报的，但在美国的几个州，出于监测的目的报告了病例。这种感染通常是自限性的，但在一些患者中可能会很严重，甚至危及生命。我们对1985年至2015年期间向得克萨斯州卫生部报告的经证实或可能的致命蚤传斑疹伤寒病例进行了回顾性审查。如果有的话，还检查了医疗图。已发现11例蚤媒伤寒致命病例。中位患者年龄62岁(36-84岁)，8名男性(73%)。患者最常见的表现为发热(100%)、恶心和呕吐(55%)和皮疹(55%)。呼吸(55%)和神经(45%)表现也经常被发现。实验室异常包括血小板减少(82%)和肝转氨酶升高(63%)。发病前经常报告跳蚤或动物接触(55%)。从住院到服用四环素类药物的中位时间为4天(范围0-5天)。从出现症状到死亡的中位时间为14天(范围1-34天)。如果不及时使用适当的四环素类抗生素治疗，蚤传斑疹伤寒可能是一种危及生命的疾病。在接触动物或跳蚤且呼吸道或神经系统症状不明的发热患者中，应考虑蚤传斑疹伤寒。"
+29985760,Chlamydia caviae,是,1,,,,,,,https://pubmed.ncbi.nlm.nih.gov/29985760/,,,,"SPECIES:Chlamydia caviae
+ID:29985760
+TITLE:Chlamydia caviae Causing Community-Acquired Pneumonia: An Emerging Zoonosis.
+ABSTRACT:We describe a case of community-acquired pneumonia due to Chlamydia caviae in a patient with no direct animal exposure, raising questions about the zoonotic reservoirs and potential transmission routes. Genotyping of Chamydia isolates that cause pneumonia should be performed for a precise diagnosis and to initiate adequate infection control measures.
+物种:衣原体caviae
+ID: 29985760
+标题:豚鼠衣原体引起社区获得性肺炎:一种新出现的人畜共患疾病。
+摘要:我们描述了1例由豚鼠衣原体引起的社区获得性肺炎，患者没有直接与动物接触，提出了关于人畜共患病的宿主和潜在传播途径的问题。应对引起肺炎的变形虫进行基因分型，以便作出准确诊断并采取适当的感染控制措施。"
+30425837,Ehrlichia chaffeensis,是,1,男,17-65,正常,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,治愈,https://pubmed.ncbi.nlm.nih.gov/30425837/, We report the case of a 59-year-old man who presented to the University of Kentucky Albert B.,292.0,59-year-old,"SPECIES:Ehrlichia chaffeensis
+ID:30425837
+TITLE:Ehrlichiosis presenting as severe sepsis and meningoencephalitis in an immunocompetent adult.
+ABSTRACT:Introduction: Ehrlichia are obligate intracellular pathogens transmitted to vertebrates by ticks. Case presentation: We report the case of a 59-year-old man who presented to the University of Kentucky Albert B. Chandler Medical Center (Lexington, KY, USA) after being found fallen down in the woods. A lumbar puncture revealed what appeared to be bacterial meningitis, yet cerebrospinal fluid cultures, Gram stains and a meningitis/encephalitis panel were inconclusive. However, an Ehrlichia DNA PCR of the blood resulted as being positive for Ehrlichia chaffeensis antibodies. The patient received a 14 day course of doxycycline, and recovered from his multiple organ failure. The aetiology of the ehrlichial meningoencephalitis was likely transmission through a tick-bite, due to the patient's outdoor exposure. Conclusion: While it is rare to see Ehrlichia as a cause of meningitis, this illness can progress to severe multisystem disease with septic shock, meningoencephalitis or acute respiratory distress syndrome (ARDS). Those with compromised immunity are at a higher risk of developing the more severe form of the disease and have higher case fatality rates.
+物种:埃立克体属chaffeensis
+ID: 30425837
+标题:在有免疫能力的成年人中，埃立克菌病表现为严重脓毒症和脑膜脑炎。
+摘要:前言:埃立克氏菌是蜱类传播给脊椎动物的专性胞内病原体。病例介绍:我们报告一例59岁的男子，他被发现倒在树林里后，提交到肯塔基大学Albert B. Chandler医疗中心(Lexington, KY, USA)。腰椎穿刺显示似乎是细菌性脑膜炎，但脑脊液培养、革兰氏染色和脑膜炎/脑炎检查没有定论。然而，血液的埃立克氏体DNA PCR结果为查菲埃立克氏体抗体阳性。患者接受强力霉素治疗14天，术后多器官功能衰竭恢复。埃氏脑膜脑炎的病因可能是由于患者的户外暴露而通过蜱咬传播。结论:虽然埃立克氏菌引起脑膜炎很少见，但该疾病可发展为严重的多系统疾病，包括败血性休克、脑膜脑炎或急性呼吸窘迫综合征(ARDS)。免疫功能受损的人发展为更严重的疾病的风险更高，病死率也更高。"
+31900105,Mycoplasma penetrans,是,1,女,17-65,抑制,其他,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/31900105/,"negative, 38-year-",718.0,38-year-old,"SPECIES:Mycoplasma penetrans
+ID:31900105
+TITLE:Mycoplasma penetrans bacteremia in an immunocompromised patient detected by metagenomic sequencing: a case report.
+ABSTRACT:
+BACKGROUND: Mycoplasma sp. are well recognized as etiological agents of respiratory and sexually transmitted disease. Mycoplasma penetrans, a species of Mycoplasma sp., has been frequently detected in HIV-positive patients and associated with the progression of HIV-associated disease. To date, there is only a single case report describing M. penetrans as the causative agent of a severe respiratory tract infection in a HIV-negative patient. CASE PRESENTATION: In this report, we describe the case of M. penetrans bacteremia in a HIV-negative, 38-year-old, female, immunocompromised, solid organ transplant patient (combined kidney and pancreas transplantation in 2016), who was admitted to our hospital with anemic uterine bleeding and fever of 38.3  C. Several hours before her admission at our university hospital, a latex bladder catheter was inserted into her uterus and she complained about fatigue, dizziness and ongoing vaginal bleeding. Laboratory examination showed severe anemia, but microbiological examination was inconspicuous (culture negative vaginal and cervical smears, negative urine culture). Bacterial blood cultures showed a growth signal after 4 h, but microscopic examination with Gram staining and subcultures on different agar media did not identify bacterial pathogens. To identify the bacterial cause of malignancy in the patient, metagenomic sequencing of the blood culture was performed that identified M. penetrans. 
+CONCLUSION: Metagenomic sequencing identified M. penetrans in an immunosuppressed patient with culture-negative bacteremia. Clinicians should be aware of the opportunistic potential of M. penetrans that may cause severe infections in certain vulnerable patient populations and the limitations of culture and Gram staining for confirming the presence of fastidious bacterial pathogens like Mycoplasma spp.
+物种:支原体penetrans
+ID: 31900105
+标题:通过宏基因组测序检测免疫低下患者的透血支原体菌血症:一个病例报告。
+文摘:
+背景:支原体是公认的呼吸道和性传播疾病的病原。渗透支原体是一种支原体，经常在hiv阳性患者中检测到，并与hiv相关疾病的进展有关。到目前为止，只有一份病例报告将穿透性支原体描述为hiv阴性患者严重呼吸道感染的病原体。案例介绍:在这个报告中,我们描述的情况下m . penetrans阴性菌血症,38岁,女性,免疫力低下,实体器官移植患者(2016年)的肾移植和胰腺移植相结合,是我们医院确诊为子宫出血和发热乏力38.3 c。几个小时前她承认在我们大学医院,乳胶膀胱导管插入到她的子宫,她抱怨疲劳、头晕和持续的阴道出血。实验室检查显示严重贫血，但微生物学检查不明显(阴道和宫颈涂片培养阴性，尿培养阴性)。血细菌培养4 h后出现生长信号，革兰氏染色镜检及不同琼脂培养基传代培养均未发现病原菌。为了确定患者的细菌恶性肿瘤病因，对血液培养进行宏基因组测序，发现了M. penetrans。
+结论:宏基因组测序在免疫抑制并培养阴性菌血症患者中鉴定出了穿甲虫。临床医生应该意识到，穿透性支原体可能在某些脆弱的患者群体中引起严重感染的机会潜力，以及培养和革兰氏染色在确认如支原体等挑剔的病原体存在时的局限性。"
+32091383,Chlamydia abortus,是,1,女,17-65,,,7：免疫学证据,,https://pubmed.ncbi.nlm.nih.gov/32091383/,,,,"SPECIES:Chlamydia abortus
+ID:32091383
+TITLE:Chlamydia abortus in Pregnant Woman with Acute Respiratory Distress Syndrome.
+ABSTRACT:We describe a case of Chlamydia abortus in a woman in rural France who was pregnant, developed severe generalized infection, and suffered fetal loss. The case stresses the need for healthcare personnel to perform thorough anamnesis in pregnant women in farming areas and to advise them to avoid contact with small ruminants.
+物种:流产衣原体
+ID: 32091383
+标题:妊娠合并急性呼吸窘迫综合征的流产衣原体。
+摘要:我们描述了一例衣原体流产的妇女在法国农村怀孕，发展为严重的全身性感染，并遭受胎儿损失。该案例强调了医护人员有必要对农业地区的孕妇进行彻底的病历检查，并建议她们避免与小型反刍动物接触。"
+32448167,Rickettsia rickettsii,是,1-10,,,,,7：免疫学证据,,https://pubmed.ncbi.nlm.nih.gov/32448167/,,,,"SPECIES:Rickettsia rickettsii
+ID:32448167
+TITLE:Underdiagnoses of Rickettsia in patients hospitalized with acute fever in Indonesia: observational study results.
+ABSTRACT:
+BACKGROUND: Reports of human rickettsial infection in Indonesia are limited. This study sought to characterize the epidemiology of human rickettsioses amongst patients hospitalized with fever at 8 tertiary hospitals in Indonesia. 
+METHODS: Acute and convalescent blood from 975 hospitalized non-dengue patients was tested for Rickettsia IgM and IgG by ELISA. Specimens from cases with seroconversion or increasing IgM and/or IgG titers were tested for Rickettsia IgM and IgG by IFA and Rickettsia genomes using primers for Rickettsia (R.) sp, R. typhi, and Orientia tsutsugamushi. Testing was performed retrospectively on stored specimens; results did not inform patient management. 
+RESULTS: R. typhi, R. rickettsii, and O. tsutsugamushi IgG antibodies were identified in 269/872 (30.8%), 36/634 (5.7%), and 19/504 (3.8%) of samples, respectively. For the 103/975 (10.6%) non-dengue patients diagnosed with acute rickettsial infection, presenting symptoms included nausea (72%), headache (69%), vomiting (43%), lethargy (33%), anorexia (32%), arthralgia (30%), myalgia (28%), chills (28%), epigastric pain (28%), and rash (17%). No acute rickettsioses cases were suspected during hospitalization. Discharge diagnoses included typhoid fever (44), dengue fever (20), respiratory infections (7), leptospirosis (6), unknown fever (6), sepsis (5), hepatobiliary infections (3), UTI (3), and others (9). Fatalities occurred in 7 (6.8%) patients, mostly with co-morbidities. 
+CONCLUSIONS: Rickettsial infections are consistently misdiagnosed, often as leptospirosis, dengue, or Salmonella typhi infection. Clinicians should include rickettsioses in their differential diagnosis of fever to guide empiric management; laboratories should support evaluation for rickettsial etiologies; and public policy should be implemented to reduce burden of disease.
+物种:立克次氏体rickettsii
+ID: 32448167
+题目:印度尼西亚急性发热住院患者中立克次体诊断不足:观察性研究结果。
+文摘:
+背景:印度尼西亚的人类立克次体感染报道有限。本研究旨在描述印度尼西亚8家三级医院发热住院患者中人类立克次体的流行病学特征。
+方法:采用ELISA法对975例住院非登革热患者的急性和恢复期血液进行立克次体IgM和IgG检测。采用立克次体(R.) sp、伤寒R.和恙虫病东方体引物，利用IFA和立克次体基因组对血清IgM和/或IgG滴度升高或升高病例标本进行立克次体IgM和IgG检测。对储存的标本进行回顾性检测;结果没有通知病人管理。
+结果:共检出伤寒R. 269/872(30.8%)、立克次体R. 36/634(5.7%)和恙虫病O. 19/504 (3.8%) IgG抗体。在103/975例(10.6%)确诊为急性立克次体感染的非登革热患者中，症状包括恶心(72%)、头痛(69%)、呕吐(43%)、嗜睡(33%)、厌食(32%)、关节痛(30%)、肌痛(28%)、寒战(28%)、胃脘痛(28%)和皮疹(17%)。住院期间未发现急性立克次体病例。出院诊断包括伤寒(44例)、登革热(20例)、呼吸道感染(7例)、钩端螺旋体病(6例)、不明原因发热(6例)、脓毒症(5例)、肝胆感染(3例)、UTI(3例)和其他疾病(9例)。
+结论:立克次体感染一直被误诊，常被误诊为钩端螺旋体病、登革热或伤寒沙门氏菌感染。临床医生应将立克次体纳入发热的鉴别诊断，以指导经验性管理;实验室应支持立克次体病原学评估;实施公共政策，减少疾病负担。"

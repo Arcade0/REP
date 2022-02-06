@@ -1,0 +1,185 @@
+ID,物种名称,是否是致病菌,样本量,患者性别,年龄,免疫状态,肺部基础疾病,证据等级,预后,id,sup_evi,old_start,answer,full
+1520762,Vibrio vulnificus,是,1,,,,其他,,,https://pubmed.ncbi.nlm.nih.gov/1520762/,,,,"SPECIES:Vibrio vulnificus
+ID:1520762
+TITLE:Vibrio vulnificus infection in Taiwan: report of 28 cases and review of clinical manifestations and treatment.
+ABSTRACT:From May 1985 through July 1990, 28 episodes of Vibrio vulnificus infection in 27 patients were encountered in five major hospitals in Taiwan. The ages of patients ranged from 19 to 76 years; the ratio of male to female patients was 2:1. Eighteen episodes manifested as bacteremia and eight as wound infections alone. One patient each developed gastroenteritis and pneumonia after nearly drowning. Twenty-three patients exhibited skin manifestations. Twenty patients had underlying diseases. All patients were treated with antibiotics, and 14 also underwent some form of surgical treatment (incision and drainage, fasciotomy, debridement, or amputation). Thirteen of the 28 episodes were preceded by precipitating factors; most were due to ingestion of seafood or exposure of abraded skin to salt water. Ten of the 18 septicemic patients died--most within 48 hours of hospitalization. One patient without bacteremia who had a wound infection died. Results of in vitro susceptibility studies suggested that ampicillin or a third-generation cephalosporin would be effective. Susceptibility to aminoglycosides was observed for greater than 90% of isolates. We recommend combined therapy with a third-generation cephalosporin or ampicillin and an aminoglycoside along with appropriate surgical therapy for the treatment of V. vulnificus infection.
+物种:创伤弧菌
+ID: 1520762
+题目:台湾创伤弧菌感染28例报告及临床表现及治疗回顾。
+摘要:1985年5月至1990年7月，台湾省五所主要医院共发生创伤弧菌感染27例，共28例。患者年龄19 ~ 76岁;男女之比为2:1。18例为菌血症，8例仅为伤口感染。各有一名病人在接近溺水后出现肠胃炎和肺炎。23例患者出现皮肤表现。有基础疾病者20例。所有患者均接受抗生素治疗，14例也接受了某种形式的手术治疗(切口引流、筋膜切开术、清创或截肢)。在28起事件中，有13起事件之前有诱发因素;其中大部分是由于食用海鲜或皮肤被海水擦伤造成的。18名败血症患者中有10人死亡——大多数在住院48小时内死亡。一名没有菌血症但有伤口感染的病人死亡。体外药敏试验结果表明，氨苄西林或第三代头孢菌素是有效的。观察到超过90%的分离株对氨基糖苷类药物敏感。对于创伤弧菌感染，我们建议联合使用第三代头孢菌素或氨苄西林和氨基糖苷类药物，同时辅以适当的手术治疗。"
+1997461,Vibrio vulnificus,是,1,,65以上,损伤,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/1997461/,,,,"SPECIES:Vibrio vulnificus
+ID:1997461
+TITLE:Pulmonary infiltrates associated with Vibrio vulnificus septicemia.
+ABSTRACT:In the case described, fatal Vibrio vulnificus primary septicemia was complicated by development of diffuse pulmonary infiltrates. Clinical features of this recently discovered infectious disease are discussed. Various aspects of diagnoses of pulmonary infiltrates in patients with V vulnificus septicemia are also presented. Vibriosis should be suspected in patients with chronic, underlying, predisposing diseases, recent ingestion of raw seafood, and characteristic skin lesions.
+物种:创伤弧菌
+ID: 1997461
+题目:创伤弧菌败血症致肺部浸润。
+摘要:在本病例中，致死性创伤弧菌原发败血症并发弥漫性肺浸润。本文讨论了这一新近发现的传染病的临床特点。肺部浸润的诊断的不同方面的病人创伤V败血症也提出。患有慢性、基础性、易感疾病、近期食用生海鲜和特征性皮肤病变的患者应怀疑有弧菌病。"
+3195881,Vibrio vulnificus,是,1,男,17-65,,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/3195881/,,,,"SPECIES:Vibrio vulnificus
+ID:3195881
+TITLE:Vibrio vulnificus and pulmonary infection.
+ABSTRACT:
+物种:创伤弧菌
+ID: 3195881
+标题:创伤弧菌与肺部感染。
+文摘:"
+8408582,Vibrio metschnikovii,是,1-10,女,65以上,,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/8408582/,,,,"SPECIES:Vibrio metschnikovii
+ID:8408582
+TITLE:Severe human infections caused by Vibrio metschnikovii.
+ABSTRACT:Vibrio metschnikovii is largely distributed in the aquatic environment; human infections are rarely observed. A fatal case of septicemia in a patient with liver cirrhosis, renal insufficiency, and diabetes is described. A second case in a 82-year-old woman with septicemia, respiratory problems, and infected leg lesions is reported; she was successfully treated.
+物种:弧菌metschnikovii
+ID: 8408582
+题目:由梅茨尼科夫弧菌引起的严重人类感染。
+摘要梅茨尼科夫弧菌主要分布在水生环境中;人类感染很少被观察到。一个致命的败血症病例在一个病人与肝硬化，肾功能不全，和糖尿病被描述。报告了另一例82岁妇女的败血症、呼吸问题和受感染的腿部病变;她被成功地治疗了。"
+11845465,Leptospira wolffi,是,10-100,,,,间质性肺病,,,https://pubmed.ncbi.nlm.nih.gov/11845465/,,,,"SPECIES:Leptospira wolffi
+ID:11845465
+TITLE:Leptospirotic etiology in pulmonary and upper respiratory tract pathology.
+ABSTRACT:A number of 3,200 febrile patients who presented upon admission to hospital primary pulmonary or upper respiratory tract impairment either as single forms of manifestation or associated to other syndromes were tested. The cases were screened by the rapid slide agglutination reaction with heat inactivated Patoc antigen and leptospirotic etiology was confirmed by the ultramicroscopic agglutination reaction with 18 live circulating pathogenic antigens. 64 leptospirosis cases with pulmonary impairment were confirmed and in 52 cases the upper respiratory tract was involved. Particular aspects of leptospirosis with pulmonary impairment: 71.8% of cases had a clinical diagnosis of interstitial pneumonia; 89% of cases presented important chest x-ray modifications; in an approximately equal number of cases the pulmonary involvement was the single manifestation or was associated with other syndromes; icterohaemorrhagiae, wolffi and pomona were the frequently encountered infecting serotypes. Particular aspects for leptospirosis involving the upper respiratory tract: 84.6% of cases had a clinical diagnosis of acute rhino-pharyngotracheitis; in 86.5% of cases the upper respiratory tract impairment was the single feature; the infecting serotypes were in decreasing order of frequency as follows: icterohaemorrhagiae, pomona, wolffi, canicola, grippotyphosa.
+物种:钩端螺旋体wolffi
+ID: 11845465
+题目:钩端螺旋体病原学在肺和上呼吸道病理。
+摘要:对3200例入院时出现原发性肺或上呼吸道损伤的发热患者进行检测，这些患者或表现为单一症状，或与其他综合征相关。用热灭活的Patoc抗原进行快速玻片凝集反应筛选病例，用18种循环活抗原进行超显微凝集反应确认钩端螺旋体病原学。64例钩端螺旋体病合并肺功能损害，其中52例上呼吸道受累。伴有肺损害的钩端螺旋体病的特殊方面:71.8%的病例的临床诊断为间质性肺炎;89%的病例出现重要的胸部x线改变;在大约相同数量的病例中，肺受累是单一症状或与其他综合征相关;常见的感染血清型有出血性黄疸、沃尔非氏和波莫纳氏。涉及上呼吸道的钩端螺旋体病的特殊方面:84.6%的临床诊断为急性鼻咽气管炎;86.5%的病例以上呼吸道损伤为单一特征;各血清型感染频次由高到低依次为:出黄疸型、波莫纳型、沃尔菲型、卡尼古拉型、手伤寒型。"
+15872299,Campylobacter curvus,是,1,,,,肺部肿瘤,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,治愈,https://pubmed.ncbi.nlm.nih.gov/15872299/, The Campylobacter species were all isolated anaerobically and identified by sequencing analysis of the 16S rRNA gene.,429.0,16S rRNA,"SPECIES:Campylobacter curvus
+ID:15872299
+TITLE:Oral Campylobacter species involved in extraoral abscess: a report of three cases.
+ABSTRACT:Oral Campylobacter species are rarely reported to cause extraoral infections. Here we present three cases of extraoral abscess caused by an oral Campylobacter sp. and a Streptococcus sp. The Campylobacter species were all isolated anaerobically and identified by sequencing analysis of the 16S rRNA gene. The cases included a breast abscess caused by Campylobacter rectus and a non-group A beta-hemolytic streptococcus in a patient with lymphoma, a liver abscess caused by Campylobacter curvus and an alpha-hemolytic streptococcus in a patient with complicated ovarian cancer, and a postobstructive bronchial abscess caused by C. curvus and group C beta-hemolytic Streptococcus constellatus in a patient with lung cancer. The abscesses were drained or resected, and the patients were treated with antibiotics with full resolution of the lesions. The C. curvus cases are likely the first reported infections by this organism, and the C. rectus case represents the second such reported extraoral infection.
+物种:弯曲杆菌curvus
+ID: 15872299
+题目:涉及口腔外脓肿的口腔弯曲杆菌种类:三例报告。
+摘要:口腔弯曲杆菌引起口外感染的报道很少。我们报告了3例由口腔弯曲杆菌和链球菌引起的口腔外脓肿。弯曲杆菌都是在厌氧条件下分离出来的，并通过16S rRNA基因测序分析鉴定。弯曲杆菌引起的病例包括乳房脓肿腹直肌和非团体beta-hemolytic链球菌与淋巴瘤患者,肝脓肿引起的弯曲杆菌curvus和溶血性链球菌与复杂的卵巢癌病人,和postobstructive支气管脓肿引起的C . curvus和C组beta-hemolytic链球菌constellatus肺癌患者。脓肿引流或切除，并给予抗生素治疗，病灶完全消退。弯曲曲c菌的病例可能是第一例报告由这种微生物感染，而直肌c菌的病例是第二例报告的口外感染。"
+18473102,Leptospira santarosai,是,10-100,群体,17-65,,,,,https://pubmed.ncbi.nlm.nih.gov/18473102/,,,,"SPECIES:Leptospira santarosai
+ID:18473102
+TITLE:Demographic and clinical features of leptospirosis: three-year experience in central Taiwan.
+ABSTRACT:BACKGROUND AND PURPOSE: Leptospirosis is a major cause of fever in subtropical and tropical areas. The clinical manifestations are protean, ranging from very mild and nonspecific symptoms to severe septic shock and death. This retrospective study investigated the demographic and clinical features of leptospirosis in central Taiwan over 3 years, with emphasis on pulmonary manifestations. 
+METHODS: We analyzed the clinical characteristics of serologically-confirmed leptospirosis cases at a tertiary teaching hospital from October 2002 to October 2005. 
+RESULTS: Twenty three confirmed cases were included and Leptospira santarosai serovar Shermani was the most commonly identified serovar (77.3%). The male-to-female ratio was 2.67:1 and the average age was 42.4 years. Nineteen cases (82.6%) were hospitalized, 3 were diagnosed in the outpatient setting and 1 died before admission. The majority of cases (63.6%) occurred in rainy months (from June to October). Fever (incidence, 100%), anorexia (74%), headache (61%), gastrointestinal upset (53%), myalgia (48%), and cough (48%) were the common clinical manifestations. Fifteen cases (63%) had respiratory symptoms and twelve (52%) had chest roentgenography abnormalities. Multiple nodular densities pattern (42%) was the most common abnormal finding on chest plain film. Three patients met the criteria of Weil's syndrome. The overall mortality rate was 4.3%. 
+CONCLUSIONS: Respiratory symptoms or abnormal findings on chest X-ray were not uncommon in patients with leptospirosis. In addition to hepatic or renal dysfunction, leptospirosis should be seriously considered in patients with pulmonary symptoms and fever, especially in subtropical and tropical areas.
+物种:钩端螺旋体santarosai
+ID: 18473102
+题目:钩端螺旋体病的人口学和临床特征:在台湾中部的三年经验。
+摘要:背景与目的:钩端螺旋体病是亚热带和热带地区发热的主要原因。临床表现千变万化，从非常轻微和非特异性症状到严重的感染性休克和死亡。摘要本研究回顾分析台湾中部地区钩端螺旋体病三年来的人口学及临床特征，并以肺部表现为重点。
+方法:对2002年10月~ 2005年10月在某高等教育医院血清学确诊的钩端螺旋体病病例的临床特点进行分析。
+结果:共纳入确诊病例23例，其中以圣塔罗萨螺旋体血清为最常见(77.3%)。男女比例为2.67:1，平均年龄为42.4岁。住院19例(82.6%)，3例在门诊确诊，1例在入院前死亡。病例以雨季(6 - 10月)居多(63.6%)。常见临床表现为发热(100%)、厌食(74%)、头痛(61%)、胃肠道不适(53%)、肌痛(48%)、咳嗽(48%)。15例(63%)有呼吸道症状，12例(52%)有胸部x线片异常。胸部平片以多发结节密度型(42%)为最常见的异常。3例患者符合Weil综合征的标准。总死亡率为4.3%。
+结论:钩端螺旋体病患者呼吸系统症状或胸部x线片异常并不少见。除肝肾功能障碍外，伴有肺部症状和发热的患者，尤其在亚热带和热带地区，应认真考虑钩端螺旋体病。"
+22782695,Borrelia persica,是,1,男,17-65,,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/22782695/, and polymerase chain reaction was positive for B.,916.0,polymerase chain reaction,"SPECIES:Borrelia persica
+ID:22782695
+TITLE:Aseptic meningitis and adult respiratory distress syndrome caused by Borrelia persica.
+ABSTRACT:INTRODUCTION: The occurrence of some of the clinical complications of tickborne relapsing fever  varies with Borrelia species. For example, adult respiratory distress syndrome (ARDS), a newly reported complication, was described so far only with B. hermsii infection. MATERIALS AND 
+METHODS: A previously healthy young Israeli man was admitted for fever and headache and was diagnosed as aseptic meningitis. Shortly before the lumbar puncture was performed he started to experience shortness of breath and developed acute respiratory insufficiency necessitating mechanical ventilation. Radiography, which was normal on admission, demonstrated bilateral lung infiltrates consistent with ARDS. Spirochetes suggestive of Borrelia were seen on a thick blood smear preparation, and polymerase chain reaction was positive for B. persica. 
+CONCLUSION: This is the first reported case of ARDS in association  with Borrelia spp. occurring outside the  U.S.A. and the first one due to B. persica infection.
+物种:包柔氏螺旋体persica
+ID: 22782695
+标题:由波斯疏螺旋体引起的无菌性脑膜炎和成人呼吸窘迫综合征。
+摘要:介绍:蜱传复发热的一些临床并发症的发生因Borrelia的种类而异。例如，成人呼吸窘迫综合征(ARDS)，一种新报道的并发症，目前仅描述了B. hermsii感染。材料和
+方法:一名先前健康的年轻以色列男子因发烧和头痛入院，诊断为无菌性脑膜炎。在进行腰椎穿刺前不久，他开始感到呼吸短促，并发急性呼吸功能不全，需要机械通气。入院时影像学检查正常，显示双侧肺浸润符合ARDS。厚血涂片上可见提示Borrelia的螺旋体，聚合酶链反应(polymerase chain reaction)阳性。
+结论:这是美国以外报道的第一例与Borrelia相关的急性呼吸窘迫综合征，也是第一例由波斯桃杆菌感染引起的急性呼吸窘迫综合征。"
+25976156,Herbaspirillum,是,1,男,17-65,抑制,其他,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,死亡,https://pubmed.ncbi.nlm.nih.gov/25976156/,,,,"SPECIES:Herbaspirillum
+ID:25976156
+TITLE:Fatal case of Herbaspirillum seropedicae bacteremia secondary to pneumonia in an end-stage renal disease patient with multiple myeloma.
+ABSTRACT:Herbaspirillum spp. are rare causes of human infections associated primarily with bacteremia in cancer patients. We report the first fatal case of bacteremia secondary to pneumonia caused by Herbaspirillum seropedicae in a 65-year-old man with end-stage renal disease and multiple myeloma. 
+物种:Herbaspirillum
+ID: 25976156
+标题:一例终末期肾病多发性骨髓瘤患者继发于肺炎的血清草芽孢杆菌血症致死性病例。
+摘要:Herbaspirillum是人类感染的罕见原因，主要与癌症患者的菌血症有关。我们报告第一例由血清草芽孢杆菌引起的肺炎继发菌血症致死性病例，患者为一位65岁的终末期肾病和多发性骨髓瘤男性。"
+26179298,Herbaspirillum,是,1,男,17-65,正常,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/26179298/,,,,"SPECIES:Herbaspirillum
+ID:26179298
+TITLE:Severe Community-Acquired Pneumonia with Bacteremia Caused by Herbaspirillum aquaticum or Herbaspirillum huttiense in an Immune-Competent Adult.
+ABSTRACT:Herbaspirillum spp. are Gram-negative bacteria that inhabit soil and water. Infections caused by these organisms have been reported in immunocompromised hosts. We describe severe community-acquired pneumonia and bacteremia caused by Herbaspirillum aquaticum or H. huttiense in an immunocompetent adult male. 
+物种:Herbaspirillum
+ID: 26179298
+标题:免疫能力的成年人中由水生草芽孢杆菌或胡廷草芽孢杆菌引起的严重社区获得性肺炎菌血症。
+摘要/ ABSTRACT摘要:Herbaspirillum spp.是栖息于土壤和水中的革兰氏阴性细菌。由这些微生物引起的感染已在免疫缺陷宿主中报告。我们描述了一名具有免疫能力的成年男性，由水生草芽孢杆菌或H. huttiense引起的严重社区获得性肺炎和菌血症。"
+26667196,Helicobacter cinaedi,是,1-10,男,65以上,受损,间质性肺病,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/26667196/, We believe that gene analysis is useful in the identification of H.,1052.0,gene analysis,"SPECIES:Helicobacter cinaedi
+ID:26667196
+TITLE:[Three Cases of Bacteremia due to Helicobacter cinaedi Infection and the Usefulness of Gene Analysis of Isolated Bacteria].
+ABSTRACT:Helicobacter cinaedi is typically isolated from immunocompromised patients. Some reports of infection caused by H.cinaedi have been found in recent years. We experienced three cases of H.cinaedi bacteremia in one year and ten months in our hospital, although the detection of H.cinaedi in blood cultures is extremely rare. In case 1, a 77-year-old female had been treated with a steroid and immunosuppressive agent for interstitial pneumonia. In cases 2 and 3, two 71-year-old men had been treated with chemotherapy for lung cancer. Although the identification of the bacteria could not be performed by the culture method in the three cases, H.cinaedi bacteremia was diagnosed by a 16S rRNA gene sequencing analysis in case 1, and by nested PCR in cases 2 and 3. H.cinaedi bacteremia often tends to recur and also requires prolonged antimicrobial therapy. We believe that gene analysis is useful in the identification of H.cinaedi. 
+物种:幽门螺杆菌cinaedi
+ID: 26667196
+题目:【3例cinaedi幽门螺杆菌感染菌血症及分离菌基因分析的有用性】。
+摘要:cinaedi幽门螺杆菌通常来自免疫功能低下的患者。近年来发现了一些由锡纳迪虫引起的感染报道。我们在我院1年10个月的时间里发生了3例cinaedi菌血症，虽然在血培养中发现cinaedi极为罕见。在病例1中，一位77岁的女性因间质性肺炎而接受类固醇和免疫抑制剂治疗。2例和3例，两名71岁男性因肺癌接受化疗。虽然3例均不能用培养法进行细菌鉴定，但病例1采用16S rRNA基因测序分析，病例2和病例3采用巢式PCR诊断出cinaedi菌血症。cinaedi菌血症往往复发，也需要长期的抗菌治疗。我们认为，基因分析是一种有用的鉴定方法。"
+27681234,Campylobacter rectus,是,1,女,65以上,,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/27681234/,,,,"SPECIES:Campylobacter rectus
+ID:27681234
+TITLE:Thoracic empyema caused by Campylobacter rectus.
+ABSTRACT:We report a case of thoracic empyema caused by Campylobacter rectus, an organism considered as a periodontal pathogen but rarely recovered from extraoral specimens. The patient fully recovered through drainage of purulent pleural fluid and administration of antibiotics. The present case illustrates that C. rectus can be a cause of not only periodontal disease but also pulmonary infection.
+物种:弯曲杆菌腹直肌
+ID: 27681234
+题目:直弯曲杆菌引起的胸脓胸。
+摘要:我们报告一例由直弯曲杆菌引起的胸脓胸，这是一种被认为是牙周病原体，但很少从口腔外标本恢复。通过脓性胸腔积液引流和抗生素治疗，患者完全康复。本病例表明，直肌梭菌不仅可引起牙周病，也可引起肺部感染。"
+28598348,Campylobacter coli,是,,,,,,,,https://pubmed.ncbi.nlm.nih.gov/28598348/,,,,"SPECIES:Campylobacter coli
+ID:28598348
+TITLE:Mortality from selected diseases that can be transmitted by water - United States, 2003-2009.
+ABSTRACT:Diseases spread by water are caused by fecal-oral, contact, inhalation, or other routes, resulting in illnesses affecting multiple body systems. We selected 13 pathogens or syndromes implicated in waterborne disease outbreaks or other well-documented waterborne transmission (acute otitis externa, Campylobacter, Cryptosporidium, Escherichia coli (E. coli), free-living ameba, Giardia, Hepatitis A virus, Legionella (Legionnaires' disease), nontuberculous mycobacteria (NTM), Pseudomonas-related pneumonia or septicemia, Salmonella, Shigella, and Vibrio). We documented annual numbers of deaths in the United States associated with these infections using a combination of death certificate data, nationally representative hospital discharge data, and disease-specific surveillance systems (2003-2009). We documented 6,939 annual total deaths associated with the 13 infections; of these, 493 (7%) were caused by seven pathogens transmitted by the fecal-oral route. A total of 6,301 deaths (91%) were associated with infections from Pseudomonas, NTM, and Legionella, environmental pathogens that grow in water system biofilms. Biofilm-associated pathogens can cause illness following inhalation of aerosols or contact with contaminated water. These findings suggest that most mortality from these 13 selected infections in the United States does not result from classical fecal-oral transmission but rather from other transmission routes.
+物种:弯曲杆菌杆菌
+ID: 28598348
+题目:2003-2009年由水传播的选定疾病造成的死亡率——美国。
+摘要水传播疾病是通过粪口、接触、吸入等途径引起的疾病，可影响多个身体系统。我们选择13病原体或综合症涉及水性疾病暴发或其他证据确凿的水媒传播(隐孢子虫急性外耳道炎症,弯曲杆菌,大肠杆菌(大肠杆菌),生活无拘束的变形虫,鞭毛虫,甲型肝炎病毒,军团菌(退伍军人杆菌复合菌群疾病),非结核分枝杆菌(特种加工),Pseudomonas-related肺炎或败血症,沙门氏菌,志贺氏杆菌,和弧菌)。我们结合死亡证明数据、全国代表性医院出院数据和特定疾病监测系统(2003-2009年)，记录了美国与这些感染相关的年度死亡人数。我们记录了与这13种感染相关的6,939例死亡病例;其中493例(7%)是由7种病原体经粪口途径传播所致。共有6301例死亡(91%)与假单胞菌、NTM和军团菌感染有关，这些环境病原体生长在水系统生物膜中。生物膜相关的病原体可在吸入气溶胶或接触污染的水后引起疾病。这些发现表明，美国这13种选定感染的大多数死亡率不是由经典的粪口传播引起的，而是由其他传播途径引起的。"
+29934034,Leptospira santarosai,是,10-100,群体,65以上,,其他,,,https://pubmed.ncbi.nlm.nih.gov/29934034/,,,,"SPECIES:Leptospira santarosai
+ID:29934034
+TITLE:Factors associated with severity and mortality in patients with confirmed leptospirosis at a regional hospital in northern Taiwan.
+ABSTRACT:BACKGROUND/PURPOSE: The clinical, epidemiological, and laboratory factors associated with disease severity and mortality from confirmed leptospirosis patients in Taiwan are not well known. This retrospective study examined patients with suspected leptospirosis admitted to En-Chu-Kong Hospital, a regional teaching hospital in northern Taiwan. 
+METHODS: From January 2002 to July 2014, 733 suspected cases were reported to the National Reference Laboratory, 57 of which were identified as laboratory and clinical confirmed. We analyzed the clinical, epidemiological, and laboratory factors associated with disease severity and mortality in 57 cases. 
+RESULTS: The mean age was 59.1 +- 18.2 years, 74% were male, and 49% had occupational contact with soil. The major complications were pulmonary involvement (54%), shock (44%), ventilator support (32%), jaundice (32%), hemorrhage (30%), acute kidney injury (30%), meningitis (11%) and myocarditis (2%). Leptospira santarosai serova Shermani was present in 42 (74%) patients and 37 (58%) patients had severe leptospirosis. Sixteen (28%) patients had concomitant infections, including nine patients with bloodstream infection. The only independent predictor for severe leptospirosis was shock (OR 14.8, 95% CI 2.97-73.59). Eleven patients died (19%). Acute respiratory distress syndrome with severe pulmonary hemorrhage syndrome (6 patients) was present in 55% of the fatal cases. The factors independently related to mortality were prior steroid use (OR 20.2, 95% CI 1.9-217.5) and hemorrhage (OR 71.2, 95% CI 4.9 - &gt;999.9). 
+CONCLUSION: These results indicate that shock is a predictor of severe leptospirosis, and prior steroid use and hemorrhage are predictors of death from leptospirosis.
+物种:钩端螺旋体santarosai
+ID: 29934034
+题目:台湾北部一家地区医院钩端螺旋体病确诊患者的严重程度和死亡率相关因素。
+摘要:背景/目的:临床、流行病学和实验室因素与台湾确诊的钩端螺旋体病患者的疾病严重程度和死亡率有关，目前尚不清楚。摘要本回顾性研究以台湾北部地区教学医院恩竹港医院疑似钩端螺旋体病病人为研究对象。
+方法:2002年1月至2014年7月，向国家参考实验室报告疑似病例733例，其中实验室确诊和临床确诊57例。我们分析了与57例疾病严重程度和死亡率相关的临床、流行病学和实验室因素。
+结果:平均年龄59.1±18.2岁，74%为男性，49%为职业性土壤接触。主要并发症为肺部受累(54%)、休克(44%)、呼吸机支持(32%)、黄疸(32%)、出血(30%)、急性肾损伤(30%)、脑膜炎(11%)和心肌炎(2%)。42例(74%)和37例(58%)患有严重钩端螺旋体病。16例(28%)患者伴有感染，其中血流感染9例。严重钩端螺旋体病的唯一独立预测因子是休克(OR 14.8, 95% CI 2.97-73.59)。11例患者死亡(19%)。急性呼吸窘迫综合征合并严重肺出血综合征(6例)占死亡病例的55%。与死亡率独立相关的因素是既往使用类固醇(或20.2,95%可信区间1.9-217.5)和出血(或71.2,95%可信区间4.9 - 999.9)。
+结论:这些结果表明休克是严重钩端螺旋体病的预测因子，既往使用类固醇和出血是钩端螺旋体病死亡的预测因子。"
+29984751,Campylobacter rectus,是,1,女,65以上,,,3：血及无菌体液（如脓胸液）,,https://pubmed.ncbi.nlm.nih.gov/29984751/, were isolated from her blood.,699.0,isolated from her blood,"SPECIES:Campylobacter rectus
+ID:29984751
+TITLE:Clival Osteomyelitis with Cavernous Sinus Thrombosis Due to Fusobacterium nucleatum and Campylobacter rectus Induced by Tooth Extraction.
+ABSTRACT:A 70-year-old woman who had suffered from aseptic meningitis complained of chronic headache after dental treatment including tooth extraction. She developed a fever and respiratory failure. Based on chest computed tomography and head magnetic resonance imaging (MRI), she was diagnosed with osteomyelitis in the clivus accompanying moderate pituitary involvement, cavernous sinus thrombosis and septic pulmonary embolism. Both of the causal bacteria, Fusobacterium nucleatum and Campylobacter rectus, were isolated from her blood. Dual infection leading to clival osteomyelitis and cavernous sinus thrombosis has not been reported. It is important to perform enhanced MRI and blood culture for patients with chronic headache related to dental treatment.
+物种:弯曲杆菌腹直肌
+ID: 29984751
+题目:拔牙引起核梭杆菌和直弯杆菌引起的斜坡骨髓炎伴海绵窦血栓形成。
+摘要:一位70岁的老年妇女，因患无菌性脑膜炎，经拔牙等牙科治疗后出现慢性头痛。她开始发烧和呼吸衰竭。基于胸部电脑断层和头部磁共振成像(MRI)，她被诊断为斜坡骨髓炎伴中度脑垂体受累，海绵窦血栓形成和脓毒性肺栓塞。从她的血液中分离出两种致病菌，核梭杆菌和直弯杆菌。导致斜坡骨髓炎和海绵窦血栓形成的双重感染尚未见报道。对于与牙科治疗相关的慢性头痛患者，进行增强MRI和血液培养是很重要的。"
+30201509,Campylobacter concisus,是,1,,,受损,,2：肺组织病原学证据,,https://pubmed.ncbi.nlm.nih.gov/30201509/, The first isolation of C. concisus from a pulmonary abscess in an immunocompromised patient who underwent allogeneic stem cell transplantation is reported here.,246.0,isolation of C. concisus from a pulmonary abscess,"SPECIES:Campylobacter concisus
+ID:30201509
+TITLE:Pulmonary Campylobacter concisus infection in an immunocompromised patient with underlying mucormycosis.
+ABSTRACT:Campylobacter concisus is a rarely encountered agent of human infection. The first isolation of C. concisus from a pulmonary abscess in an immunocompromised patient who underwent allogeneic stem cell transplantation is reported here. This unusual case demonstrates the pathogenic potential of this bacterium and outlines species-immanent difficulties in gaining a reliable diagnosis. Molecular methods were a cornerstone for definite identification of the organism grown on anaerobic culture from surgically excised tissue. Antimicrobial susceptibility testing revealed unusual quinolone and macrolide resistance, and therefore antimicrobial therapy was based on beta-lactam antibiotics.
+物种:弯曲杆菌concisus
+ID: 30201509
+标题:肺弓形弯曲菌感染的免疫低下患者潜在毛霉菌病。
+摘要:弓形杆菌是一种罕见的人类感染病原菌。第一次从肺脓肿中分离出concisus在一个免疫低下的病人谁接受了异体干细胞移植是报告在这里。这个不寻常的病例表明了这种细菌的致病潜力，并概述了在获得可靠诊断方面存在的固有困难。分子方法是确定从手术切除的组织在厌氧培养上生长的有机体的基础。抗菌药物敏感性试验显示，喹诺酮类和大环内酯类药物耐药异常，因此抗菌药物治疗以-内酰胺类抗生素为基础。"
+30556384,Herbaspirillum,是,1,女,17-65,,,5：气管吸出物或痰/BALF纯培养或优势培养出病原体,治愈,https://pubmed.ncbi.nlm.nih.gov/30556384/,,,,"SPECIES:Herbaspirillum
+ID:30556384
+TITLE:Herbaspirillum huttiense pneumonia in a patient with essential thrombocythaemia.
+ABSTRACT:
+物种:Herbaspirillum
+ID: 30556384
+标题:原发性血小板血症患者的胡廷草芽孢杆菌肺炎。
+文摘:"
+31011426,Campylobacter rectus,是,1,男,17-65,,,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/31011426/,,,,"SPECIES:Campylobacter rectus
+ID:31011426
+TITLE:Mixed anaerobic thoracic empyema: the first report of Filifactor alocis causing extra-oral disease.
+ABSTRACT:We report on a case of bilateral lung consolidation and thoracic empyema caused by the periodontal pathogens Filifactor alocis and Campylobacter rectus in a patient with chronic dysphagia. This is the first report of Filifactor alocis causing infection at an extra-oral site.
+物种:弯曲杆菌腹直肌
+ID: 31011426
+题目:混合型厌氧胸脓胸:首次报道Filifactor alocis引起口外疾病。
+摘要:我们报告一位慢性吞咽困难的病人，由于牙周病原体纤维因子脱位和直弯杆菌引起双侧肺实变和胸胸脓胸。这是第一个报道Filifactor alocis引起感染口外部位。"
+32148981,Herbaspirillum,是,1,女,17-65,,肺部肿瘤,3：血及无菌体液（如脓胸液）,治愈,https://pubmed.ncbi.nlm.nih.gov/32148981/, the blood culture was confirmed from outside lab as Herbaspirillum seropedicae.,1428.0,blood culture,"SPECIES:Herbaspirillum
+ID:32148981
+TITLE:Herbaspirillum Infection in Humans: A Case Report and Review of Literature.
+ABSTRACT:Introduction. Herbaspirillum seropedicae are Gram-negative oxidase-positive nonfermenting rods of Betaproteobacteria class, commonly found in rhizosphere. More recently, some Herbaspirillium species have transitioned from environment to human hosts, mostly as opportunistic (pathogenic) bacteria. We present a 58-year-old female with non-small-cell lung cancer (NSCLC) who presented with pneumonia and was found to have Herbaspirillum seropedicae bacteremia. Case History. A 58-year-old woman with NSCLC on Pralsetinib presented with fevers and rigors for 2 days. Coarse breath sounds were auscultated on the right upper lung field. Labs revealed leukopenia and mild neutropenia. CT chest revealed right upper lobe pneumonia. She was admitted for sepsis secondary to pneumonia and placed on broad spectrum antibiotics with intravenous piperacillin-tazobactam and vancomycin. The patient continued to have fever 2 days after admission (max: 102.8 F). Preliminary blood cultures grew Gram-negative rods. The patient continued to have temperature spikes on the 3rd day of antibiotics (T max 101.5 F). Blood cultures revealed oxidase-positive nonfermenting rods. The patient's antibiotic was changed to IV meropenem on the 4th day of hospitalization. Ultimately, on the seventh day of hospitalization, the blood culture was confirmed from outside lab as Herbaspirillum seropedicae. The patient started feeling better and defervesced after about 24 hours. Discussion. More recently, Herbaspirillum spp. have been recovered from humans. Our patient had Herbaspirillum bacteremia, and reported regularly cleaning her pond and weeding her garden with possible exposure to this environmental proteobacterium. Herbaspirillum may be more prevalent than earlier thought owing to misidentification. With the institution of appropriate antimicrobial therapy, the outcomes seem mostly favorable.
+物种:Herbaspirillum
+ID: 32148981
+标题:人类草芽孢杆菌感染:一例报告和文献回顾。
+文摘:介绍。Herbaspirillum seropedicae是变形菌纲的革兰氏阴性氧化酶阳性非发酵棒，常见于根际。最近，一些草孢菌种类已经从环境转变为人类宿主，主要是作为机会(致病菌)细菌。我们报告一位58岁女性患非小细胞肺癌(NSCLC)，以肺炎为表现，并被发现有血清草芽孢杆菌菌血症。案例的历史。一名58岁女性非小细胞肺癌患者，服用Pralsetinib，发烧和僵硬2天。听诊粗呼吸音于右上肺野。化验显示白细胞减少，轻度中性粒细胞减少。胸部CT示右上肺叶肺炎。她因肺炎继发的败血症而入院，并接受静脉注射哌西林-他唑巴坦和万古霉素的广谱抗生素治疗。患者入院后2天继续发热(最高102.8华氏度)。初步血培养培养出革兰氏阴性棒。在使用抗生素的第3天，患者持续出现体温峰值(T max 101.5 F)。血培养显示氧化酶阳性的非发酵棒。住院第4天改为静脉注射美罗培南。最终在住院第7天，经室外实验室确认血培养为血清草芽孢杆菌。患者在24小时后开始感觉好转并退热。讨论。最近，Herbaspirillum sp .已经从人类身上恢复。我们的病人患有草芽孢杆菌菌血症，报告说她经常清理池塘和给花园除草，可能暴露在这种环境变形菌中。由于误认，草芽孢杆菌可能比以前认为的更普遍。在适当的抗菌素治疗的制度下，结果似乎大多是有利的增加齿。"
+32181254,Borrelia miyamotoi,是,10-100,,,,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/32181254/, This search revealed a positive PCR for B.,1378.0,positive PCR,"SPECIES:Borrelia miyamotoi
+ID:32181254
+TITLE:Borrelia miyamotoi: 43 Cases Diagnosed in France by Real-Time PCR in Patients With Persistent Polymorphic Signs and Symptoms.
+ABSTRACT:Background: Borrelia species are divided into three groups depending on the induced disease and the tick vector. Borrelia miyamotoi is a relapsing fever Borrelia but can induce symptoms related to Lyme disease. Discovered in 1995, it is found in ticks around the world. In France, this species of Borrelia has been isolated in ticks and rodents, but was not yet observed in humans. Objective: The aim of the study was to look for B. miyamotoi in symptomatic patients. Methods: Real-time PCR was performed on 824 blood samples from patients presenting symptoms of persistent polymorphic syndrome possibly due to tick bite, a syndrome recognized by the French Authority for Health, which is close to the post-treatment Lyme disease syndrome. PCR was also performed on 24 healthy control persons. The primers were specifically designed for this particular species of Borrelia. The sequence of interest of 94 bp is located on the glpQ gene. Sequencing of amplification products, randomly chosen, confirmed the amplification specificity. To better investigate cases, a clinical questionnaire was sent to the patients PCR-positive for B. miyamotoi and to their physician. Results: This search revealed a positive PCR for B. miyamotoi in the blood from 43 patients out of 824 (5.22%). PCR was negative in all control persons. A clinical chart was obtained from 31 of the 43 patients. A history of erythema migrans was reported in five of these 31 patients (16%). All patients complained about fatigue, joint pain and neuro-cognitive disorders. Some patients complained about respiratory problems (chest tightness and/or lack of air in 41.9%). Episodes of relapsing fever were reported by 11 of the 31 patients (35.5%). Chilliness, hot flushes and/or sweats were reported by around half of the patients. B. miyamotoi may not cross-react with B. burgdorferi serology. Conclusion: This study is the first to detect B. miyamotoi in human blood in France. This series of human B. miyamotoi infection is the largest in patients with long term persistent syndrome. Our data suggest that this infection may be persistent, even on the long term.
+物种:包柔氏螺旋体miyamotoi
+ID: 32181254
+题目:宫本氏Borrelia: 43例在法国通过Real-Time PCR诊断为持续性多态体征和症状的患者。
+摘要背景:Borrelia根据致病原因和蜱媒分为三组。宫本疏螺旋体是一种复发性发热的疏螺旋体，但可诱发莱姆病相关症状。它于1995年被发现，在世界各地的蜱虫中都有发现。在法国，这种Borrelia已在蜱虫和啮齿动物中分离出来，但尚未在人类中观察到。目的:在有症状的患者中寻找宫本氏芽胞杆菌。方法:对824例可能由蜱虫叮咬引起的持续性多态综合征患者的血样进行实时荧光定量PCR检测，该综合征是法国卫生权威机构认可的一种综合征，接近治疗后的莱姆病综合征。对24名健康对照者进行PCR检测。引物是专门为这一特定品种的Borrelia设计的。该序列位于glpQ基因上，为94 bp。随机选择扩增产物进行测序，证实了扩增的特异性。为了更好地调查病例，向宫本氏芽胞杆菌pcr阳性的患者及其医生发送了一份临床问卷。结果:824例患者中43例(5.22%)血中均为宫本氏芽胞杆菌阳性。所有对照组PCR均为阴性。43例患者中有31例获得临床图表。31例患者中有5例(16%)有红斑迁移史。所有患者均自诉疲劳、关节疼痛和神经认知障碍。部分患者抱怨呼吸系统问题(41.9%的患者有胸闷和/或缺乏空气)。31例患者中有11例复发发热(35.5%)。大约一半的患者报告有寒战、潮热和/或出汗。B.宫本茂不可以ss与伯氏疏螺旋体血清学反应。结论:本研究首次在法国人血中检测到宫本氏芽胞杆菌。这一系列人类宫本氏b菌感染是患者中最大的长期持续综合征。我们的数据表明，这种感染可能是持续性的，甚至长期的。"
+32307314,Leptospira santarosai,是,1,男,17-65,,,6：气管吸出物或痰的分子诊断（PCR、基因组测序等）病原,,https://pubmed.ncbi.nlm.nih.gov/32307314/, Retrospective exploration using molecular and serological approaches from the samples allowed reporting an infection by Leptospira santarosai serogroup Sejroe serovar Hardjo.,986.0,molecular and serological approaches,"SPECIES:Leptospira santarosai
+ID:32307314
+TITLE:First report of human Leptospira santarosai infection in French Guiana.
+ABSTRACT:Leptospirosis is a zoonotic disease with worldwide distribution. In French Guiana, a French overseas department of South America, this bacterial infection is endemic with the increase of human cases since the last 5 years. Nevertheless, the epidemiological data on the circulating infecting strain remains scarce due to the lack of specific symptoms and the used diagnostic approaches. We report a severe case of leptospirosis in a 52-years-old male, working as a street cleaner, hospitalized at the Intensive Care Unit of city capital hospital of French Guiana because of hemodynamic, neurological, renal, and respiratory failure. At ICU admission, the patient was comatose, his temperature was 37.3 C, heart rate 104 beats per minute, blood pressure 84/45mmHg, and oxygen saturation 95% while under mechanical ventilation. Retrospective exploration using molecular and serological approaches from the samples allowed reporting an infection by Leptospira santarosai serogroup Sejroe serovar Hardjo. To our knowledge, this is the first human case infected with this species in French Guiana. Through these analyses, this report provides new epidemiological information about the Leptospira strains circulating in French Guiana. In particular, this emphasizes the importance of accurate diagnosis to characterize with more precision the circulating Leptospira strains in this department.
+物种:钩端螺旋体santarosai
+ID: 32307314
+题目:法属圭亚那人类圣塔罗塞钩端螺旋体感染的首次报告。
+摘要:钩端螺旋体病是一种分布于世界各地的人畜共患疾病。在南美洲的一个法国海外省法属圭亚那，这种细菌感染是地方病，自过去5年以来人间病例增加。然而，由于缺乏具体症状和使用的诊断方法，关于正在流行的感染毒株的流行病学数据仍然很少。我们报告一例严重的钩端螺旋体病患者，52岁男性，从事街道清洁工作，因血流动力学、神经系统、肾脏和呼吸衰竭而住院于法圭亚那城市首都医院重症监护室。入院时患者处于昏迷状态，体温37.3 C，心率104次/分，血压84/45mmHg，机械通气时氧饱和度95%。使用来自样本的分子和血清学方法的回顾性研究允许报告圣塔罗钩端螺旋体血清群Sejroe serovar Hardjo感染。据我们所知，这是法属圭亚那第一例人类感染这种病毒的病例。通过这些分析，本报告提供了有关在法属圭亚那传播的钩端螺旋体菌株的新的流行病学信息。这特别强调了准确诊断的重要性，以更准确地鉴定在本部门流行的钩端螺旋体菌株。"
